@@ -1,0 +1,135 @@
+City,Country,# of CCTV Cameras,# of People,"# of CCTV Cameras per 1,000 People",Cameras per Square Mile,Crime Index
+Wuxi,China,"300,000",3.32M,90.49,472.66,7.84
+Qingdao,China,"262,000",5.74M,45.62,415.8,8.59
+Hefei,China,"113,795",4.37M,26.03,41.77,12.35
+Suzhou,China,"270,000",7.43M,36.35,165.63,13
+Nanjing,China,"238,000",9.14M,26.03,95.2,13.18
+Ji'nan,China,"160,000",5.51M,29.02,51.79,14.13
+Xian,China,"45,000",8.27M,5.44,11.67,16.85
+Dalian,China,"32,000",5.78M,5.54,15.8,16.92
+Fukuoka,Japan,"1,076",5.52M,0.2,0.56,17.99
+Zhengzhou,China,"100,000",5.51M,18.15,63.28,19.71
+Hangzhou,China,"400,000",7.85M,50.98,61.52,19.78
+Urumqi,China,"160,000",4.54M,35.21,23.15,19.85
+Changsha,China,"262,000",4.69M,55.81,353.85,21.38
+Thrissur,India,269,3.21M,0.08,0.23,21.98
+Shenyang,China,"200,000",7.37M,27.12,101.25,22.18
+Hong Kong,Hong Kong,"53,971",7.6M,7.1,125.93,22.22
+Nanning,China,"53,430",3.97M,13.44,11.42,22.3
+Xinbei (New Taipei City),Taiwan,"35,000",4.43M,7.89,44.16,22.34
+Wenzhou,China,"55,144",3.73M,14.8,114.87,22.79
+Tokyo,Japan,"39,504",37.34M,1.06,7.54,23.12
+Chengdu,China,"310,000",9.31M,33.32,55.83,23.55
+Wuhan,China,"200,000",8.47M,23.6,339.01,23.65
+Harbin,China,"250,000",6.53M,38.31,63.45,23.66
+Busan,South Korea,780,3.47M,0.23,2.63,24.41
+Xiamen,China,"150,000",3.79M,39.57,228.66,25.51
+Kunming,China,"200,000",4.55M,43.95,112.24,25.96
+Seoul,South Korea,"77,564",9.97M,7.78,331.94,26.34
+Tel Aviv,Israel,"4,291",4.26M,1.01,7.33,26.35
+Nanchang,China,"78,260",3.71M,21.09,42.12,26.47
+Riyadh,Saudi Arabia,150,7.39M,0.02,0.22,26.99
+Changchun,China,"100,000",4.52M,22.12,139.62,27.53
+Chongqing,China,"290,000",16.38M,17.7,17.11,27.73
+Fuzhou,China,"12,800",3.76M,3.4,18.75,28.58
+Montral,Canada,"4,402",4.25M,1.04,2.48,29.37
+Madrid,Spain,"34,000",6.67M,5.1,11.01,29.94
+Osaka,Japan,"30,000",19.11M,1.57,5.96,30.33
+Tianjin,China,"350,000",13.79M,25.37,75.88,30.55
+Shenzhen,China,"400,000",12.59M,31.77,520.08,32.79
+Ahmedabad,India,"6,281",8.25M,0.76,2.01,33.37
+Sydney,Australia,"60,000",4.99M,12.02,34.03,33.58
+Khartoum,Sudan,"4,010",5.99M,0.67,10.28,33.81
+Singapore,Singapore,"108,981",5.99M,18.19,387.56,33.86
+Taiyuan,China,"465,255",3.98M,117.02,174.39,34.31
+Beijing,China,"1,150,000",20.9M,55.03,181.49,34.45
+Shanghai,China,"1,000,000",27.8M,35.98,408.49,34.79
+Surat,India,"3,180",7.49M,0.42,1.81,35.45
+Bekasi,Indonesia,29,3.51M,0.01,0.35,35.85
+Jaipur,India,"1,000",4.01M,0.25,5.55,36.1
+Foshan,China,"100,000",7.41M,13.5,67.31,37.35
+Dakar,Senegal,473,3.23M,0.15,2.24,37.5
+Hanoi,Vietnam,"4,400",4.87M,0.9,3.42,37.65
+Moscow,Russia,"203,600",12.59M,16.17,210.01,38.55
+Alexandria,Egypt,122,5.38M,0.02,0.12,38.71
+St. Petersburg,Russia,"56,300",5.5M,10.23,101.33,39.16
+Lahore,Pakistan,"10,000",13.1M,0.76,14.62,39.3
+Guangzhou,China,"300,000",13.64M,22,104.51,39.95
+Ankara,Turkey,"1,400",5.22M,0.27,0.15,40.01
+Toronto,Canada,"19,276",6.25M,3.08,8.45,40.48
+Chennai,India,"280,000",11.24M,24.92,609.92,40.87
+Kochi,India,582,3.19M,0.18,3.43,41.12
+Bangkok,Thailand,"77,885",10.72M,7.26,129.14,41.23
+Berlin,Germany,"22,289",3.57M,6.25,64.78,41.49
+Pune,India,"17,320",6.81M,2.54,5.94,42.12
+Mumbai,India,"68,988",20.67M,3.34,157.43,43.15
+Dongguan,China,"125,145",7.45M,16.79,131.49,43.33
+Hyderabad,India,"375,000",10.27M,36.52,133.84,43.78
+Milan,Italy,"8,304",3.14M,2.64,13.62,44.14
+Melbourne,Australia,"10,995",5.06M,2.17,2.85,44.32
+Kozhikode,India,76,3.74M,0.02,0.08,45.3
+Barcelona,Spain,"8,330",5.62M,1.48,2.79,46.01
+Yangon,Myanmar,"2,995",5.42M,0.55,12.96,46.61
+Mashhad,Iran,584,3.26M,0.18,N/A,46.77
+New York,United States,"58,190",8.23M,7.07,193.72,47.01
+Istanbul,Turkey,"109,000",15.42M,7.07,54.33,47.5
+Kolkata,India,"22,316",14.97M,1.49,56.28,47.55
+Addis Ababa,Ethiopia,140,5.01M,0.03,0.69,47.66
+Los Angeles,United States,"34,959",3.98M,8.78,74.54,48.84
+Monterrey,Mexico,"4,000",4.96M,0.81,10.81,48.94
+Asuncion,Paraguay,668,3.39M,0.2,1.71,49
+Indore,India,"200,600",3.11M,64.43,133.29,49.88
+Cairo,Egypt,"46,552",21.32M,2.18,39.08,49.97
+Ibadan,Nigeria,10,3.65M,0,0,50.08
+Lucknow,India,"16,800",3.76M,4.46,124.68,50.2
+Kano,Nigeria,"5,000",4.1M,1.22,2.27,50.59
+Medelln,Colombia,"2,430",4.03M,0.6,16.53,51.29
+Rome,Italy,"5,598",4.28M,1.31,2.71,52.31
+London,England (UK),"691,000",9.43M,73.31,1138.48,53.07
+Jakarta,Indonesia,"8,013",10.92M,0.73,31.26,53.59
+Athens,Greece,"10,847",3.15M,3.44,68.19,53.67
+Ho Chi Minh City,Vietnam,"37,813",8.84M,4.28,47.51,54.11
+Bangalore,India,917,12.76M,0.07,1.08,54.42
+Kampala,Uganda,"2,833",3.47M,0.82,N/A,54.42
+Paris,France,"42,539",11.08M,3.84,38.62,54.49
+Tehran,Iran,"2,083",9.26M,0.22,3.17,54.66
+Abidjan,Ivory Coast,"1,024",5.35M,0.19,1.24,55.12
+Casablanca,Morocco,"2,850",3.79M,0.75,33.55,55.46
+Santiago,Chile,"3,000",6.81M,0.44,1.31,56.1
+Delhi,India,"551,500",16.35M,33.73,1826.58,59.54
+Abuja,Nigeria,40,3.46M,0.01,0.01,59.57
+Nairobi,Kenya,"2,000",4.92M,0.41,7.44,60.57
+Antananarivo,Madagascar,"1,000",3.53M,0.28,N/A,61.19
+Brasilia,Brazil,"3,726",4.73M,0.79,1.66,61.29
+Guadalajara,Mexico,"25,672",5.26M,4.88,18.67,61.83
+Curitiba,Brazil,"2,585",3.73M,0.69,0.43,62.61
+Chittagong,Bangladesh,"1,052",5.13M,0.2,2.63,62.63
+Buenos Aires,Argentina,"24,743",15.26M,1.62,13.47,62.98
+Puebla,Mexico,"17,440",3.24M,5.37,18.88,63.04
+Baghdad,Iraq,"120,000",7.32M,16.39,59.77,63.38
+Bogot,Colombia,"7,881",11.17M,0.71,12.58,63.71
+Belo Horizonte,Brazil,"2,145",6.14M,0.35,0.39,63.89
+Kuala Lumpur,Malaysia,"5,000",8.21M,0.61,5.77,64.64
+Manila,Philippines,"3,086",14.16M,0.22,11.17,64.69
+Dhaka,Bangladesh,"16,000",21.74M,0.74,138.13,65.12
+Lagos,Nigeria,0,14.86M,0,0,65.36
+Campinas,Brazil,640,3.34M,0.19,0.45,66.2
+Luanda,Angola,700,8.63M,0.08,0.97,67.52
+Santo Domingo,Dominican Republic,"1,369",3.39M,0.4,1.32,67.58
+Mexico City,Mexico,"87,000",21.92M,3.97,151.74,69.3
+Lima,Peru,"7,547",10.88M,0.69,7.31,69.98
+So Paulo,Brazil,"22,175",22.24M,1,7.23,70.3
+Cape Town,South Africa,"2,765",4.71M,0.59,6.3,73.7
+Porto Alegre,Brazil,"2,503",4.16M,0.6,0.66,74.66
+Salvador,Brazil,"4,510",3.88M,1.16,2.68,75.93
+Kabul,Afghanistan,108,4.34M,0.02,0.27,76.07
+Recife,Brazil,"2,080",4.17M,0.5,1.94,76.46
+Rio de Janeiro,Brazil,"14,000",13.54M,1.03,6.81,77.57
+Fortaleza,Brazil,"3,033",4.12M,0.74,1.36,78.12
+Johannesburg,South Africa,"16,470",5.93M,2.78,127.41,80.55
+Durban,South Africa,528,3.18M,0.17,6.08,80.57
+Ekurhuleni,South Africa,"1,500",3.97M,0.38,1.97,N/A
+Tangshan Hebei,China,"4,000",3.56M,1.12,2.67,N/A
+Guiyang,China,"20,000",3.41M,5.87,6.45,N/A
+Lanzhou,China,"25,200",3.15M,7.99,4.99,N/A
+Shijiazhuang,China,"54,000",4.2M,12.86,22.86,N/A

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City CCTV and Crime Rate Visualization</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+        html {
+            scroll-behavior: smooth;
+        }
+        .chart-title {
+            font-size: 20px;
+            text-anchor: middle;
+        }
+        .axis-title {
+            font-size: 14px;
+            text-anchor: middle;
+        }
+        .dot {
+            stroke: #000;
+        }
+        .bar {
+            fill: #69b3a2;
+            stroke: #407a5c;
+            stroke-width: 1.5;
+        }
+
+        .bar:hover {
+            fill: #407a5c;
+        }
+       
+        .axis .domain {
+            stroke: #cccccc;
+        }
+
+        .axis text {
+            font-size: 12px;
+            color: #666666;
+        }
+
+        .axis line {
+            stroke: #cccccc;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+        .heatmap-title {
+            font-size: 20px;
+            text-anchor: middle;
+        }
+        .axis-title {
+            font-size: 14px;
+            text-anchor: middle;
+        }
+        .link {
+            fill: none;
+            stroke: #000;
+            stroke-opacity: 0.2;
+        }
+        .node rect {
+            fill-opacity: 0.9;
+            shape-rendering: crispEdges;
+        }
+        .node text {
+            fill: #000;
+            font: 10px sans-serif;
+        }
+        .sankey-link {
+            fill: none;
+            stroke: #000;
+            stroke-opacity: 0.2;
+        }
+        .sankey-link:hover {
+            stroke-opacity: 0.5;
+        }
+        .sankey-node {
+            stroke: #000;
+            stroke-width: 1px;
+            cursor: move;
+        }
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: auto;
+            height: auto;
+            padding: 2px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+            z-index: 100;
+            /* opacity: 0; */
+        }
+        
+        .chartTitle, .axisLabel {
+            font-family: sans-serif;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        .in-view {
+            animation: fadeIn 1s forwards;
+        }
+        #chart {
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+        #scatterplot2{
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+
+        #scatterplot {
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+
+        #heatmap {
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+
+        svg#sankey {
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+
+        svg#conclusion {
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+        .image-container {
+            position: relative;
+            max-width: 100%;
+        }
+        .image-container img {
+            position: absolute;
+            right: 0;
+            top: 0;
+            max-width: 100px;
+            max-height: 100px;
+        }
+
+        #progress-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            padding: 3px;
+        }
+
+        #progress-bar {
+            height: 20px;
+            background-color: lightsteelblue;
+            width: 0%;
+            transition: width 0.4s ease-in-out;
+        }
+        #nextChart {
+            height: 0px;
+            width: 0px;
+        }
+        .chart-description {
+            padding: 20px;
+            margin-top: 20px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            font-size: 24px;
+            color: #333;
+        }
+
+        .in-view {
+            animation: fadeIn 1s forwards;
+        }
+
+        @keyframes fadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        /* Fade in animation for descriptions */
+        @keyframes fadeInDescription {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .chart-description {
+            animation: fadeInDescription 1s;
+            transition: opacity 1s ease-in-out;
+            opacity: 0; /* Start with the description hidden */
+        }
+
+        /* Updated subtle pulse animation */
+        /* @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+
+        .in-view {
+            animation: pulse 3s infinite ease-in-out;
+        } */
+
+
+
+
+    </style>
+</head>
+<body>
+<div id="progress-container">
+    <div id="progress-bar"></div>
+</div>
+<div id="chart-description" class="chart-description"></div>
+
+<button id="nextChart"></button>
+<div id="image-container" class="image-container"></div>
+<div id="table-container" class="container mt-5"></div>
+<div id="chart"></div>
+<div id="chart2"></div>
+<div id="scatterplot2"></div>
+<div id="scatterplot"></div>
+<div id="scatterplot_outlier"></div>
+<div id="scatterplot3"></div>
+<div id="heatmap"></div>
+<svg id="sankey" width="2000" height="1500"></svg>
+<!-- <svg id="conclusion" width="3000" height="1500"></svg> -->
+<svg id="india" width="3000" height="1500"></svg>
+<svg id="brazil" width="3000" height="1500"></svg>
+<svg id = "end">
+
+</svg>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,2789 @@
+report_year,agency_jurisdiction,violent_crimes
+1975,"Albuquerque, NM",2383.0
+1975,"Arlington, TX",278.0
+1975,"Atlanta, GA",8033.0
+1975,"Aurora, CO",611.0
+1975,"Austin, TX",1215.0
+1975,"Baltimore County, MD",1259.0
+1975,"Baltimore, MD",16086.0
+1975,"Boston, MA",11386.0
+1975,"Buffalo, NY",3350.0
+1975,"Charlotte, NC",1937.0
+1975,"Chicago, IL",37160.0
+1975,"Cincinnati, OH",3578.0
+1975,"Cleveland, OH",10403.0
+1975,"Columbus, OH",3980.0
+1975,"Dallas, TX",7655.0
+1975,"Denver, CO",4960.0
+1975,"Detroit, MI",30387.0
+1975,"El Paso, TX",1618.0
+1975,"Fairfax County, VA",805.0
+1975,"Fort Worth, TX",1939.0
+1975,"Fresno, CA",1141.0
+1975,"Honolulu, HI",1596.0
+1975,"Houston, TX",8924.0
+1975,"Indianapolis, IN",4655.0
+1975,"Jacksonville, FL",4579.0
+1975,"Kansas City, MO",6072.0
+1975,"Las Vegas, NV",2594.0
+1975,"Long Beach, CA",3189.0
+1975,"Los Angeles County, CA",9792.0
+1975,"Los Angeles, CA",30405.0
+1975,"Louisville, KY",0.0
+1975,"Memphis, TN",5429.0
+1975,"Mesa, AZ",267.0
+1975,"Miami, FL",6213.0
+1975,"Miami-Dade County, FL",6702.0
+1975,"Milwaukee, WI",3204.0
+1975,"Minneapolis, MN",3326.0
+1975,"Montgomery County, MD",967.0
+1975,"Nashville, TN",3158.0
+1975,"Nassau County, NY",993.0
+1975,"New Orleans, LA",5993.0
+1975,"New York City, NY",132182.0
+1975,"Newark, NJ",7136.0
+1975,"Oakland, CA",5900.0
+1975,"Oklahoma City, OK",2666.0
+1975,"Omaha, NE",2540.0
+1975,"Orlando, FL",1116.0
+1975,"Philadelphia, PA",16332.0
+1975,"Phoenix, AZ",4649.0
+1975,"Pittsburgh, PA",4967.0
+1975,"Portland, OR",4076.0
+1975,"Prince George's County, MD",4147.0
+1975,"Raleigh, NC",721.0
+1975,"Sacramento, CA",2412.0
+1975,"Salt Lake City, UT",1070.0
+1975,"San Antonio, TX",4222.0
+1975,"San Diego, CA",3859.0
+1975,"San Francisco, CA",9137.0
+1975,"San Jose, CA",2116.0
+1975,"Seattle, WA",3971.0
+1975,"St. Louis, MO",10563.0
+1975,"Suffolk County, NY",964.0
+1975,"Tampa, FL",3168.0
+1975,"Tucson, AZ",1810.0
+1975,"Tulsa, OK",1768.0
+1975,"Virginia Beach, VA",452.0
+1975,"Washington, DC",12704.0
+1975,"Wichita, KS",1137.0
+1976,"Albuquerque, NM",2420.0
+1976,"Arlington, TX",274.0
+1976,"Atlanta, GA",7529.0
+1976,"Aurora, CO",546.0
+1976,"Austin, TX",1202.0
+1976,"Baltimore County, MD",1798.0
+1976,"Baltimore, MD",14191.0
+1976,"Boston, MA",9888.0
+1976,"Buffalo, NY",3091.0
+1976,"Charlotte, NC",1895.0
+1976,"Chicago, IL",30640.0
+1976,"Cincinnati, OH",3461.0
+1976,"Cleveland, OH",8496.0
+1976,"Columbus, OH",3287.0
+1976,"Dallas, TX",7244.0
+1976,"Denver, CO",4107.0
+1976,"Detroit, MI",29699.0
+1976,"El Paso, TX",1573.0
+1976,"Fairfax County, VA",708.0
+1976,"Fort Worth, TX",1732.0
+1976,"Fresno, CA",1267.0
+1976,"Honolulu, HI",1696.0
+1976,"Houston, TX",8045.0
+1976,"Indianapolis, IN",4144.0
+1976,"Jacksonville, FL",4443.0
+1976,"Kansas City, MO",5578.0
+1976,"Las Vegas, NV",2473.0
+1976,"Long Beach, CA",2950.0
+1976,"Los Angeles County, CA",10104.0
+1976,"Los Angeles, CA",31960.0
+1976,"Louisville, KY",0.0
+1976,"Memphis, TN",4780.0
+1976,"Mesa, AZ",311.0
+1976,"Miami, FL",5172.0
+1976,"Miami-Dade County, FL",6787.0
+1976,"Milwaukee, WI",2692.0
+1976,"Minneapolis, MN",2954.0
+1976,"Montgomery County, MD",932.0
+1976,"Nashville, TN",2831.0
+1976,"Nassau County, NY",887.0
+1976,"New Orleans, LA",4810.0
+1976,"New York City, NY",134153.0
+1976,"Newark, NJ",6565.0
+1976,"Oakland, CA",5514.0
+1976,"Oklahoma City, OK",2360.0
+1976,"Omaha, NE",2008.0
+1976,"Orlando, FL",1118.0
+1976,"Philadelphia, PA",13113.0
+1976,"Phoenix, AZ",3856.0
+1976,"Pittsburgh, PA",4621.0
+1976,"Portland, OR",4304.0
+1976,"Prince George's County, MD",3869.0
+1976,"Raleigh, NC",531.0
+1976,"Sacramento, CA",2799.0
+1976,"Salt Lake City, UT",959.0
+1976,"San Antonio, TX",3285.0
+1976,"San Diego, CA",4118.0
+1976,"San Francisco, CA",10756.0
+1976,"San Jose, CA",2523.0
+1976,"Seattle, WA",4128.0
+1976,"St. Louis, MO",9574.0
+1976,"Suffolk County, NY",1810.0
+1976,"Tampa, FL",2935.0
+1976,"Tucson, AZ",1464.0
+1976,"Tulsa, OK",1747.0
+1976,"Virginia Beach, VA",481.0
+1976,"Washington, DC",10399.0
+1976,"Wichita, KS",1114.0
+1977,"Albuquerque, NM",2390.0
+1977,"Arlington, TX",389.0
+1977,"Atlanta, GA",7595.0
+1977,"Aurora, CO",585.0
+1977,"Austin, TX",1260.0
+1977,"Baltimore County, MD",4010.0
+1977,"Baltimore, MD",14283.0
+1977,"Boston, MA",9422.0
+1977,"Buffalo, NY",3945.0
+1977,"Charlotte, NC",2245.0
+1977,"Chicago, IL",28873.0
+1977,"Cincinnati, OH",3439.0
+1977,"Cleveland, OH",9421.0
+1977,"Columbus, OH",3238.0
+1977,"Dallas, TX",8899.0
+1977,"Denver, CO",5032.0
+1977,"Detroit, MI",24070.0
+1977,"El Paso, TX",1560.0
+1977,"Fairfax County, VA",841.0
+1977,"Fort Worth, TX",2561.0
+1977,"Fresno, CA",1673.0
+1977,"Honolulu, HI",1660.0
+1977,"Houston, TX",9304.0
+1977,"Indianapolis, IN",3785.0
+1977,"Jacksonville, FL",4171.0
+1977,"Kansas City, MO",5616.0
+1977,"Las Vegas, NV",2729.0
+1977,"Long Beach, CA",3391.0
+1977,"Los Angeles County, CA",10589.0
+1977,"Los Angeles, CA",33676.0
+1977,"Louisville, KY",0.0
+1977,"Memphis, TN",5231.0
+1977,"Mesa, AZ",385.0
+1977,"Miami, FL",5346.0
+1977,"Miami-Dade County, FL",7204.0
+1977,"Milwaukee, WI",2535.0
+1977,"Minneapolis, MN",3130.0
+1977,"Montgomery County, MD",916.0
+1977,"Nashville, TN",2957.0
+1977,"Nassau County, NY",1058.0
+1977,"New Orleans, LA",5947.0
+1977,"New York City, NY",121916.0
+1977,"Newark, NJ",6175.0
+1977,"Oakland, CA",5764.0
+1977,"Oklahoma City, OK",2695.0
+1977,"Omaha, NE",1918.0
+1977,"Orlando, FL",1143.0
+1977,"Philadelphia, PA",12047.0
+1977,"Phoenix, AZ",4295.0
+1977,"Pittsburgh, PA",4572.0
+1977,"Portland, OR",3973.0
+1977,"Prince George's County, MD",3724.0
+1977,"Raleigh, NC",571.0
+1977,"Sacramento, CA",2915.0
+1977,"Salt Lake City, UT",1064.0
+1977,"San Antonio, TX",3755.0
+1977,"San Diego, CA",4414.0
+1977,"San Francisco, CA",9367.0
+1977,"San Jose, CA",2670.0
+1977,"Seattle, WA",4156.0
+1977,"St. Louis, MO",9726.0
+1977,"Suffolk County, NY",2042.0
+1977,"Tampa, FL",3194.0
+1977,"Tucson, AZ",1578.0
+1977,"Tulsa, OK",1850.0
+1977,"Virginia Beach, VA",463.0
+1977,"Washington, DC",9843.0
+1977,"Wichita, KS",1397.0
+1978,"Albuquerque, NM",2434.0
+1978,"Arlington, TX",450.0
+1978,"Atlanta, GA",8845.0
+1978,"Aurora, CO",831.0
+1978,"Austin, TX",1413.0
+1978,"Baltimore County, MD",4600.0
+1978,"Baltimore, MD",14659.0
+1978,"Boston, MA",10035.0
+1978,"Buffalo, NY",3181.0
+1978,"Charlotte, NC",2435.0
+1978,"Chicago, IL",27686.0
+1978,"Cincinnati, OH",3303.0
+1978,"Cleveland, OH",9697.0
+1978,"Columbus, OH",3353.0
+1978,"Dallas, TX",9884.0
+1978,"Denver, CO",4877.0
+1978,"Detroit, MI",21602.0
+1978,"El Paso, TX",1490.0
+1978,"Fairfax County, VA",917.0
+1978,"Fort Worth, TX",2670.0
+1978,"Fresno, CA",1997.0
+1978,"Honolulu, HI",2044.0
+1978,"Houston, TX",10852.0
+1978,"Indianapolis, IN",3733.0
+1978,"Jacksonville, FL",4368.0
+1978,"Kansas City, MO",5029.0
+1978,"Las Vegas, NV",2886.0
+1978,"Long Beach, CA",3688.0
+1978,"Los Angeles County, CA",10766.0
+1978,"Los Angeles, CA",36797.0
+1978,"Louisville, KY",0.0
+1978,"Memphis, TN",5412.0
+1978,"Mesa, AZ",493.0
+1978,"Miami, FL",6272.0
+1978,"Miami-Dade County, FL",8437.0
+1978,"Milwaukee, WI",2438.0
+1978,"Minneapolis, MN",3098.0
+1978,"Montgomery County, MD",1138.0
+1978,"Nashville, TN",3153.0
+1978,"Nassau County, NY",1005.0
+1978,"New Orleans, LA",7635.0
+1978,"New York City, NY",122685.0
+1978,"Newark, NJ",6843.0
+1978,"Oakland, CA",5374.0
+1978,"Oklahoma City, OK",3607.0
+1978,"Omaha, NE",1856.0
+1978,"Orlando, FL",1620.0
+1978,"Philadelphia, PA",12369.0
+1978,"Phoenix, AZ",5401.0
+1978,"Pittsburgh, PA",4818.0
+1978,"Portland, OR",4017.0
+1978,"Prince George's County, MD",3967.0
+1978,"Raleigh, NC",645.0
+1978,"Sacramento, CA",3198.0
+1978,"Salt Lake City, UT",1062.0
+1978,"San Antonio, TX",3446.0
+1978,"San Diego, CA",4520.0
+1978,"San Francisco, CA",10509.0
+1978,"San Jose, CA",2755.0
+1978,"Seattle, WA",4900.0
+1978,"St. Louis, MO",10095.0
+1978,"Suffolk County, NY",2523.0
+1978,"Tampa, FL",3510.0
+1978,"Tucson, AZ",1654.0
+1978,"Tulsa, OK",2160.0
+1978,"Virginia Beach, VA",465.0
+1978,"Washington, DC",9515.0
+1978,"Wichita, KS",1231.0
+1979,"Albuquerque, NM",2679.0
+1979,"Arlington, TX",626.0
+1979,"Atlanta, GA",10715.0
+1979,"Aurora, CO",1033.0
+1979,"Austin, TX",1495.0
+1979,"Baltimore County, MD",5041.0
+1979,"Baltimore, MD",15523.0
+1979,"Boston, MA",11392.0
+1979,"Buffalo, NY",3857.0
+1979,"Charlotte, NC",2485.0
+1979,"Chicago, IL",27807.0
+1979,"Cincinnati, OH",3808.0
+1979,"Cleveland, OH",9736.0
+1979,"Columbus, OH",4242.0
+1979,"Dallas, TX",11453.0
+1979,"Denver, CO",5118.0
+1979,"Detroit, MI",21021.0
+1979,"El Paso, TX",2245.0
+1979,"Fairfax County, VA",882.0
+1979,"Fort Worth, TX",3799.0
+1979,"Fresno, CA",1976.0
+1979,"Honolulu, HI",2196.0
+1979,"Houston, TX",14216.0
+1979,"Indianapolis, IN",4178.0
+1979,"Jacksonville, FL",4903.0
+1979,"Kansas City, MO",5942.0
+1979,"Las Vegas, NV",3210.0
+1979,"Long Beach, CA",3990.0
+1979,"Los Angeles County, CA",11529.0
+1979,"Los Angeles, CA",43372.0
+1979,"Louisville, KY",0.0
+1979,"Memphis, TN",5785.0
+1979,"Mesa, AZ",755.0
+1979,"Miami, FL",6825.0
+1979,"Miami-Dade County, FL",9508.0
+1979,"Milwaukee, WI",3039.0
+1979,"Minneapolis, MN",3899.0
+1979,"Montgomery County, MD",1241.0
+1979,"Nashville, TN",3251.0
+1979,"Nassau County, NY",1257.0
+1979,"New Orleans, LA",8894.0
+1979,"New York City, NY",132383.0
+1979,"Newark, NJ",9647.0
+1979,"Oakland, CA",6064.0
+1979,"Oklahoma City, OK",3812.0
+1979,"Omaha, NE",2017.0
+1979,"Orlando, FL",1726.0
+1979,"Philadelphia, PA",14537.0
+1979,"Phoenix, AZ",5803.0
+1979,"Pittsburgh, PA",4649.0
+1979,"Portland, OR",4558.0
+1979,"Prince George's County, MD",4538.0
+1979,"Raleigh, NC",804.0
+1979,"Sacramento, CA",3212.0
+1979,"Salt Lake City, UT",1119.0
+1979,"San Antonio, TX",4088.0
+1979,"San Diego, CA",5436.0
+1979,"San Francisco, CA",11041.0
+1979,"San Jose, CA",3236.0
+1979,"Seattle, WA",4857.0
+1979,"St. Louis, MO",10774.0
+1979,"Suffolk County, NY",3023.0
+1979,"Tampa, FL",4206.0
+1979,"Tucson, AZ",2029.0
+1979,"Tulsa, OK",2326.0
+1979,"Virginia Beach, VA",530.0
+1979,"Washington, DC",10553.0
+1979,"Wichita, KS",1456.0
+1980,"Albuquerque, NM",2810.0
+1980,"Arlington, TX",806.0
+1980,"Atlanta, GA",11075.0
+1980,"Aurora, CO",1278.0
+1980,"Austin, TX",1723.0
+1980,"Baltimore County, MD",5774.0
+1980,"Baltimore, MD",16571.0
+1980,"Boston, MA",12478.0
+1980,"Buffalo, NY",3833.0
+1980,"Charlotte, NC",2759.0
+1980,"Chicago, IL",28658.0
+1980,"Cincinnati, OH",3930.0
+1980,"Cleveland, OH",11466.0
+1980,"Columbus, OH",5130.0
+1980,"Dallas, TX",12681.0
+1980,"Denver, CO",5520.0
+1980,"Detroit, MI",23288.0
+1980,"El Paso, TX",2811.0
+1980,"Fairfax County, VA",995.0
+1980,"Fort Worth, TX",4693.0
+1980,"Fresno, CA",2369.0
+1980,"Honolulu, HI",2456.0
+1980,"Houston, TX",13499.0
+1980,"Indianapolis, IN",4453.0
+1980,"Jacksonville, FL",4848.0
+1980,"Kansas City, MO",7013.0
+1980,"Las Vegas, NV",4421.0
+1980,"Long Beach, CA",4634.0
+1980,"Los Angeles County, CA",12593.0
+1980,"Los Angeles, CA",51447.0
+1980,"Louisville, KY",0.0
+1980,"Memphis, TN",6898.0
+1980,"Mesa, AZ",812.0
+1980,"Miami, FL",11474.0
+1980,"Miami-Dade County, FL",12429.0
+1980,"Milwaukee, WI",3310.0
+1980,"Minneapolis, MN",3917.0
+1980,"Montgomery County, MD",1433.0
+1980,"Nashville, TN",3634.0
+1980,"Nassau County, NY",1462.0
+1980,"New Orleans, LA",8172.0
+1980,"New York City, NY",149549.0
+1980,"Newark, NJ",11270.0
+1980,"Oakland, CA",7536.0
+1980,"Oklahoma City, OK",3734.0
+1980,"Omaha, NE",1983.0
+1980,"Orlando, FL",2350.0
+1980,"Philadelphia, PA",17299.0
+1980,"Phoenix, AZ",7020.0
+1980,"Pittsburgh, PA",5120.0
+1980,"Portland, OR",4957.0
+1980,"Prince George's County, MD",5194.0
+1980,"Raleigh, NC",784.0
+1980,"Sacramento, CA",3221.0
+1980,"Salt Lake City, UT",1132.0
+1980,"San Antonio, TX",4265.0
+1980,"San Diego, CA",6189.0
+1980,"San Francisco, CA",12710.0
+1980,"San Jose, CA",3788.0
+1980,"Seattle, WA",5201.0
+1980,"St. Louis, MO",10983.0
+1980,"Suffolk County, NY",2967.0
+1980,"Tampa, FL",5089.0
+1980,"Tucson, AZ",2584.0
+1980,"Tulsa, OK",2715.0
+1980,"Virginia Beach, VA",530.0
+1980,"Washington, DC",12772.0
+1980,"Wichita, KS",1823.0
+1981,"Albuquerque, NM",2985.0
+1981,"Arlington, TX",699.0
+1981,"Atlanta, GA",10608.0
+1981,"Aurora, CO",1437.0
+1981,"Austin, TX",1545.0
+1981,"Baltimore County, MD",6127.0
+1981,"Baltimore, MD",17737.0
+1981,"Boston, MA",14071.0
+1981,"Buffalo, NY",3341.0
+1981,"Charlotte, NC",3166.0
+1981,"Chicago, IL",25609.0
+1981,"Cincinnati, OH",3892.0
+1981,"Cleveland, OH",12429.0
+1981,"Columbus, OH",5263.0
+1981,"Dallas, TX",12749.0
+1981,"Denver, CO",5085.0
+1981,"Detroit, MI",23176.0
+1981,"El Paso, TX",3510.0
+1981,"Fairfax County, VA",934.0
+1981,"Fort Worth, TX",4946.0
+1981,"Fresno, CA",2158.0
+1981,"Honolulu, HI",1965.0
+1981,"Houston, TX",10274.0
+1981,"Indianapolis, IN",4539.0
+1981,"Jacksonville, FL",5634.0
+1981,"Kansas City, MO",7714.0
+1981,"Las Vegas, NV",4648.0
+1981,"Long Beach, CA",4579.0
+1981,"Los Angeles County, CA",12059.0
+1981,"Los Angeles, CA",52818.0
+1981,"Louisville, KY",0.0
+1981,"Memphis, TN",7056.0
+1981,"Mesa, AZ",741.0
+1981,"Miami, FL",11211.0
+1981,"Miami-Dade County, FL",12755.0
+1981,"Milwaukee, WI",3424.0
+1981,"Minneapolis, MN",3883.0
+1981,"Montgomery County, MD",1716.0
+1981,"Nashville, TN",3087.0
+1981,"Nassau County, NY",1708.0
+1981,"New Orleans, LA",8121.0
+1981,"New York City, NY",156946.0
+1981,"Newark, NJ",12320.0
+1981,"Oakland, CA",7036.0
+1981,"Oklahoma City, OK",4128.0
+1981,"Omaha, NE",1583.0
+1981,"Orlando, FL",2373.0
+1981,"Philadelphia, PA",17616.0
+1981,"Phoenix, AZ",6319.0
+1981,"Pittsburgh, PA",5983.0
+1981,"Portland, OR",6452.0
+1981,"Prince George's County, MD",5571.0
+1981,"Raleigh, NC",719.0
+1981,"Sacramento, CA",3535.0
+1981,"Salt Lake City, UT",1268.0
+1981,"San Antonio, TX",4651.0
+1981,"San Diego, CA",6594.0
+1981,"San Francisco, CA",12011.0
+1981,"San Jose, CA",4122.0
+1981,"Seattle, WA",5414.0
+1981,"St. Louis, MO",10364.0
+1981,"Suffolk County, NY",1663.0
+1981,"Tampa, FL",5674.0
+1981,"Tucson, AZ",2810.0
+1981,"Tulsa, OK",2678.0
+1981,"Virginia Beach, VA",606.0
+1981,"Washington, DC",14468.0
+1981,"Wichita, KS",1729.0
+1982,"Albuquerque, NM",2659.0
+1982,"Arlington, TX",607.0
+1982,"Atlanta, GA",10486.0
+1982,"Aurora, CO",1406.0
+1982,"Austin, TX",1532.0
+1982,"Baltimore County, MD",6539.0
+1982,"Baltimore, MD",16683.0
+1982,"Boston, MA",10970.0
+1982,"Buffalo, NY",3557.0
+1982,"Charlotte, NC",4100.0
+1982,"Chicago, IL",26404.0
+1982,"Cincinnati, OH",3757.0
+1982,"Cleveland, OH",9386.0
+1982,"Columbus, OH",4590.0
+1982,"Dallas, TX",13053.0
+1982,"Denver, CO",4935.0
+1982,"Detroit, MI",23746.0
+1982,"El Paso, TX",3922.0
+1982,"Fairfax County, VA",966.0
+1982,"Fort Worth, TX",4901.0
+1982,"Fresno, CA",2182.0
+1982,"Honolulu, HI",2151.0
+1982,"Houston, TX",17801.0
+1982,"Indianapolis, IN",4341.0
+1982,"Jacksonville, FL",5643.0
+1982,"Kansas City, MO",6729.0
+1982,"Las Vegas, NV",4470.0
+1982,"Long Beach, CA",4498.0
+1982,"Los Angeles County, CA",11870.0
+1982,"Los Angeles, CA",53957.0
+1982,"Louisville, KY",0.0
+1982,"Memphis, TN",7609.0
+1982,"Mesa, AZ",705.0
+1982,"Miami, FL",9963.0
+1982,"Miami-Dade County, FL",12088.0
+1982,"Milwaukee, WI",3593.0
+1982,"Minneapolis, MN",4247.0
+1982,"Montgomery County, MD",1719.0
+1982,"Nashville, TN",3248.0
+1982,"Nassau County, NY",1685.0
+1982,"New Orleans, LA",8604.0
+1982,"New York City, NY",143943.0
+1982,"Newark, NJ",10704.0
+1982,"Oakland, CA",6609.0
+1982,"Oklahoma City, OK",4286.0
+1982,"Omaha, NE",2450.0
+1982,"Orlando, FL",2662.0
+1982,"Philadelphia, PA",17511.0
+1982,"Phoenix, AZ",5431.0
+1982,"Pittsburgh, PA",5391.0
+1982,"Portland, OR",6484.0
+1982,"Prince George's County, MD",5053.0
+1982,"Raleigh, NC",886.0
+1982,"Sacramento, CA",2988.0
+1982,"Salt Lake City, UT",1279.0
+1982,"San Antonio, TX",5905.0
+1982,"San Diego, CA",5835.0
+1982,"San Francisco, CA",11615.0
+1982,"San Jose, CA",3616.0
+1982,"Seattle, WA",5120.0
+1982,"St. Louis, MO",10069.0
+1982,"Suffolk County, NY",2081.0
+1982,"Tampa, FL",5736.0
+1982,"Tucson, AZ",2925.0
+1982,"Tulsa, OK",2704.0
+1982,"Virginia Beach, VA",646.0
+1982,"Washington, DC",13397.0
+1982,"Wichita, KS",1695.0
+1983,"Albuquerque, NM",2954.0
+1983,"Arlington, TX",585.0
+1983,"Atlanta, GA",9326.0
+1983,"Aurora, CO",1706.0
+1983,"Austin, TX",1534.0
+1983,"Baltimore County, MD",6012.0
+1983,"Baltimore, MD",16132.0
+1983,"Boston, MA",11365.0
+1983,"Buffalo, NY",3297.0
+1983,"Charlotte, NC",4267.0
+1983,"Chicago, IL",39776.0
+1983,"Cincinnati, OH",3339.0
+1983,"Cleveland, OH",7798.0
+1983,"Columbus, OH",4197.0
+1983,"Dallas, TX",11478.0
+1983,"Denver, CO",4379.0
+1983,"Detroit, MI",25527.0
+1983,"El Paso, TX",4275.0
+1983,"Fairfax County, VA",794.0
+1983,"Fort Worth, TX",5104.0
+1983,"Fresno, CA",1913.0
+1983,"Honolulu, HI",2136.0
+1983,"Houston, TX",15919.0
+1983,"Indianapolis, IN",4139.0
+1983,"Jacksonville, FL",5670.0
+1983,"Kansas City, MO",7452.0
+1983,"Las Vegas, NV",3564.0
+1983,"Long Beach, CA",4679.0
+1983,"Los Angeles County, CA",11493.0
+1983,"Los Angeles, CA",53435.0
+1983,"Louisville, KY",0.0
+1983,"Memphis, TN",7564.0
+1983,"Mesa, AZ",798.0
+1983,"Miami, FL",9784.0
+1983,"Miami-Dade County, FL",11795.0
+1983,"Milwaukee, WI",3720.0
+1983,"Minneapolis, MN",3487.0
+1983,"Montgomery County, MD",1449.0
+1983,"Nashville, TN",3289.0
+1983,"Nassau County, NY",1493.0
+1983,"New Orleans, LA",8048.0
+1983,"New York City, NY",132653.0
+1983,"Newark, NJ",9327.0
+1983,"Oakland, CA",6777.0
+1983,"Oklahoma City, OK",4685.0
+1983,"Omaha, NE",2390.0
+1983,"Orlando, FL",2215.0
+1983,"Philadelphia, PA",16973.0
+1983,"Phoenix, AZ",5270.0
+1983,"Pittsburgh, PA",5605.0
+1983,"Portland, OR",6879.0
+1983,"Prince George's County, MD",4817.0
+1983,"Raleigh, NC",879.0
+1983,"Sacramento, CA",3080.0
+1983,"Salt Lake City, UT",1163.0
+1983,"San Antonio, TX",5327.0
+1983,"San Diego, CA",5451.0
+1983,"San Francisco, CA",10117.0
+1983,"San Jose, CA",3460.0
+1983,"Seattle, WA",4818.0
+1983,"St. Louis, MO",8461.0
+1983,"Suffolk County, NY",2259.0
+1983,"Tampa, FL",5053.0
+1983,"Tucson, AZ",2776.0
+1983,"Tulsa, OK",2404.0
+1983,"Virginia Beach, VA",587.0
+1983,"Washington, DC",11933.0
+1983,"Wichita, KS",1385.0
+1984,"Albuquerque, NM",3615.0
+1984,"Arlington, TX",765.0
+1984,"Atlanta, GA",10525.0
+1984,"Aurora, CO",1822.0
+1984,"Austin, TX",1648.0
+1984,"Baltimore County, MD",6111.0
+1984,"Baltimore, MD",15581.0
+1984,"Boston, MA",10557.0
+1984,"Buffalo, NY",3316.0
+1984,"Charlotte, NC",4431.0
+1984,"Chicago, IL",60579.0
+1984,"Cincinnati, OH",3447.0
+1984,"Cleveland, OH",7332.0
+1984,"Columbus, OH",4352.0
+1984,"Dallas, TX",12110.0
+1984,"Denver, CO",4100.0
+1984,"Detroit, MI",26567.0
+1984,"El Paso, TX",3730.0
+1984,"Fairfax County, VA",868.0
+1984,"Fort Worth, TX",5452.0
+1984,"Fresno, CA",1994.0
+1984,"Honolulu, HI",1950.0
+1984,"Houston, TX",15155.0
+1984,"Indianapolis, IN",4366.0
+1984,"Jacksonville, FL",6228.0
+1984,"Kansas City, MO",7167.0
+1984,"Las Vegas, NV",3309.0
+1984,"Long Beach, CA",4243.0
+1984,"Los Angeles County, CA",10898.0
+1984,"Los Angeles, CA",51442.0
+1984,"Louisville, KY",0.0
+1984,"Memphis, TN",9158.0
+1984,"Mesa, AZ",871.0
+1984,"Miami, FL",10928.0
+1984,"Miami-Dade County, FL",13052.0
+1984,"Milwaukee, WI",3456.0
+1984,"Minneapolis, MN",3883.0
+1984,"Montgomery County, MD",1540.0
+1984,"Nashville, TN",3104.0
+1984,"Nassau County, NY",1923.0
+1984,"New Orleans, LA",8687.0
+1984,"New York City, NY",132292.0
+1984,"Newark, NJ",8580.0
+1984,"Oakland, CA",6388.0
+1984,"Oklahoma City, OK",4259.0
+1984,"Omaha, NE",2410.0
+1984,"Orlando, FL",2387.0
+1984,"Philadelphia, PA",15599.0
+1984,"Phoenix, AZ",6372.0
+1984,"Pittsburgh, PA",4564.0
+1984,"Portland, OR",7408.0
+1984,"Prince George's County, MD",4700.0
+1984,"Raleigh, NC",947.0
+1984,"Sacramento, CA",3252.0
+1984,"Salt Lake City, UT",1088.0
+1984,"San Antonio, TX",5388.0
+1984,"San Diego, CA",5931.0
+1984,"San Francisco, CA",9372.0
+1984,"San Jose, CA",3295.0
+1984,"Seattle, WA",5553.0
+1984,"St. Louis, MO",7729.0
+1984,"Suffolk County, NY",1650.0
+1984,"Tampa, FL",5852.0
+1984,"Tucson, AZ",2959.0
+1984,"Tulsa, OK",2619.0
+1984,"Virginia Beach, VA",618.0
+1984,"Washington, DC",10725.0
+1984,"Wichita, KS",1328.0
+1985,"Albuquerque, NM",4105.0
+1985,"Arlington, TX",1110.0
+1985,"Atlanta, GA",11610.0
+1985,"Aurora, CO",2250.0
+1985,"Austin, TX",2363.0
+1985,"Baltimore County, MD",6775.0
+1985,"Baltimore, MD",15498.0
+1985,"Boston, MA",11887.0
+1985,"Buffalo, NY",3411.0
+1985,"Charlotte, NC",4575.0
+1985,"Chicago, IL",60011.0
+1985,"Cincinnati, OH",3275.0
+1985,"Cleveland, OH",6580.0
+1985,"Columbus, OH",4392.0
+1985,"Dallas, TX",14364.0
+1985,"Denver, CO",4252.0
+1985,"Detroit, MI",25904.0
+1985,"El Paso, TX",3662.0
+1985,"Fairfax County, VA",889.0
+1985,"Fort Worth, TX",6352.0
+1985,"Fresno, CA",2311.0
+1985,"Honolulu, HI",1801.0
+1985,"Houston, TX",16461.0
+1985,"Indianapolis, IN",4622.0
+1985,"Jacksonville, FL",7301.0
+1985,"Kansas City, MO",8012.0
+1985,"Las Vegas, NV",3624.0
+1985,"Long Beach, CA",4134.0
+1985,"Los Angeles County, CA",10624.0
+1985,"Los Angeles, CA",52832.0
+1985,"Louisville, KY",0.0
+1985,"Memphis, TN",9738.0
+1985,"Mesa, AZ",1121.0
+1985,"Miami, FL",11186.0
+1985,"Miami-Dade County, FL",13064.0
+1985,"Milwaukee, WI",4056.0
+1985,"Minneapolis, MN",5135.0
+1985,"Montgomery County, MD",1645.0
+1985,"Nashville, TN",3376.0
+1985,"Nassau County, NY",1771.0
+1985,"New Orleans, LA",8222.0
+1985,"New York City, NY",135152.0
+1985,"Newark, NJ",9736.0
+1985,"Oakland, CA",6703.0
+1985,"Oklahoma City, OK",4328.0
+1985,"Omaha, NE",2498.0
+1985,"Orlando, FL",2931.0
+1985,"Philadelphia, PA",16209.0
+1985,"Phoenix, AZ",7521.0
+1985,"Pittsburgh, PA",4353.0
+1985,"Portland, OR",8634.0
+1985,"Prince George's County, MD",5055.0
+1985,"Raleigh, NC",1035.0
+1985,"Sacramento, CA",3681.0
+1985,"Salt Lake City, UT",1083.0
+1985,"San Antonio, TX",5393.0
+1985,"San Diego, CA",6250.0
+1985,"San Francisco, CA",9502.0
+1985,"San Jose, CA",3470.0
+1985,"Seattle, WA",6523.0
+1985,"St. Louis, MO",8642.0
+1985,"Suffolk County, NY",2630.0
+1985,"Tampa, FL",6855.0
+1985,"Tucson, AZ",3713.0
+1985,"Tulsa, OK",2902.0
+1985,"Virginia Beach, VA",550.0
+1985,"Washington, DC",10171.0
+1985,"Wichita, KS",1672.0
+1986,"Albuquerque, NM",4292.0
+1986,"Arlington, TX",1450.0
+1986,"Atlanta, GA",13162.0
+1986,"Aurora, CO",2868.0
+1986,"Austin, TX",2667.0
+1986,"Baltimore County, MD",6792.0
+1986,"Baltimore, MD",15229.0
+1986,"Boston, MA",12395.0
+1986,"Buffalo, NY",3755.0
+1986,"Charlotte, NC",5487.0
+1986,"Chicago, IL",68909.0
+1986,"Cincinnati, OH",3340.0
+1986,"Cleveland, OH",7115.0
+1986,"Columbus, OH",5148.0
+1986,"Dallas, TX",19275.0
+1986,"Denver, CO",4650.0
+1986,"Detroit, MI",27277.0
+1986,"El Paso, TX",4734.0
+1986,"Fairfax County, VA",964.0
+1986,"Fort Worth, TX",7870.0
+1986,"Fresno, CA",3426.0
+1986,"Honolulu, HI",2076.0
+1986,"Houston, TX",20576.0
+1986,"Indianapolis, IN",4307.0
+1986,"Jacksonville, FL",8003.0
+1986,"Kansas City, MO",9673.0
+1986,"Las Vegas, NV",3947.0
+1986,"Long Beach, CA",4839.0
+1986,"Los Angeles County, CA",11499.0
+1986,"Los Angeles, CA",66378.0
+1986,"Louisville, KY",0.0
+1986,"Memphis, TN",10477.0
+1986,"Mesa, AZ",1208.0
+1986,"Miami, FL",11676.0
+1986,"Miami-Dade County, FL",14934.0
+1986,"Milwaukee, WI",6135.0
+1986,"Minneapolis, MN",5959.0
+1986,"Montgomery County, MD",1630.0
+1986,"Nashville, TN",4218.0
+1986,"Nassau County, NY",1978.0
+1986,"New Orleans, LA",9165.0
+1986,"New York City, NY",143251.0
+1986,"Newark, NJ",10160.0
+1986,"Oakland, CA",6985.0
+1986,"Oklahoma City, OK",4239.0
+1986,"Omaha, NE",2726.0
+1986,"Orlando, FL",3416.0
+1986,"Philadelphia, PA",17207.0
+1986,"Phoenix, AZ",9238.0
+1986,"Pittsburgh, PA",4707.0
+1986,"Portland, OR",8804.0
+1986,"Prince George's County, MD",5294.0
+1986,"Raleigh, NC",1163.0
+1986,"Sacramento, CA",4238.0
+1986,"Salt Lake City, UT",1246.0
+1986,"San Antonio, TX",6237.0
+1986,"San Diego, CA",8522.0
+1986,"San Francisco, CA",9506.0
+1986,"San Jose, CA",4020.0
+1986,"Seattle, WA",6790.0
+1986,"St. Louis, MO",9889.0
+1986,"Suffolk County, NY",2595.0
+1986,"Tampa, FL",8147.0
+1986,"Tucson, AZ",3644.0
+1986,"Tulsa, OK",3295.0
+1986,"Virginia Beach, VA",736.0
+1986,"Washington, DC",9422.0
+1986,"Wichita, KS",1531.0
+1987,"Albuquerque, NM",3845.0
+1987,"Arlington, TX",1412.0
+1987,"Atlanta, GA",12893.0
+1987,"Aurora, CO",2700.0
+1987,"Austin, TX",2313.0
+1987,"Baltimore County, MD",5544.0
+1987,"Baltimore, MD",14295.0
+1987,"Boston, MA",11954.0
+1987,"Buffalo, NY",3555.0
+1987,"Charlotte, NC",5992.0
+1987,"Chicago, IL",68368.0
+1987,"Cincinnati, OH",3167.0
+1987,"Cleveland, OH",6964.0
+1987,"Columbus, OH",5381.0
+1987,"Dallas, TX",20086.0
+1987,"Denver, CO",3841.0
+1987,"Detroit, MI",27778.0
+1987,"El Paso, TX",4332.0
+1987,"Fairfax County, VA",965.0
+1987,"Fort Worth, TX",7691.0
+1987,"Fresno, CA",3373.0
+1987,"Honolulu, HI",2258.0
+1987,"Houston, TX",18971.0
+1987,"Indianapolis, IN",4543.0
+1987,"Jacksonville, FL",9577.0
+1987,"Kansas City, MO",8423.0
+1987,"Las Vegas, NV",3884.0
+1987,"Long Beach, CA",4660.0
+1987,"Los Angeles County, CA",12325.0
+1987,"Los Angeles, CA",63833.0
+1987,"Louisville, KY",0.0
+1987,"Memphis, TN",8833.0
+1987,"Mesa, AZ",1293.0
+1987,"Miami, FL",11309.0
+1987,"Miami-Dade County, FL",15579.0
+1987,"Milwaukee, WI",6008.0
+1987,"Minneapolis, MN",5538.0
+1987,"Montgomery County, MD",1707.0
+1987,"Nashville, TN",5253.0
+1987,"Nassau County, NY",1866.0
+1987,"New Orleans, LA",7678.0
+1987,"New York City, NY",148313.0
+1987,"Newark, NJ",8926.0
+1987,"Oakland, CA",6485.0
+1987,"Oklahoma City, OK",3798.0
+1987,"Omaha, NE",2536.0
+1987,"Orlando, FL",3411.0
+1987,"Philadelphia, PA",17398.0
+1987,"Phoenix, AZ",8181.0
+1987,"Pittsburgh, PA",4318.0
+1987,"Portland, OR",8763.0
+1987,"Prince George's County, MD",1246.0
+1987,"Raleigh, NC",1124.0
+1987,"Sacramento, CA",3836.0
+1987,"Salt Lake City, UT",1090.0
+1987,"San Antonio, TX",6092.0
+1987,"San Diego, CA",9112.0
+1987,"San Francisco, CA",9298.0
+1987,"San Jose, CA",4378.0
+1987,"Seattle, WA",7096.0
+1987,"St. Louis, MO",9778.0
+1987,"Suffolk County, NY",2817.0
+1987,"Tampa, FL",8899.0
+1987,"Tucson, AZ",3523.0
+1987,"Tulsa, OK",3129.0
+1987,"Virginia Beach, VA",718.0
+1987,"Washington, DC",10016.0
+1987,"Wichita, KS",1566.0
+1988,"Albuquerque, NM",4275.0
+1988,"Arlington, TX",1388.0
+1988,"Atlanta, GA",15911.0
+1988,"Aurora, CO",2625.0
+1988,"Austin, TX",2508.0
+1988,"Baltimore County, MD",6515.0
+1988,"Baltimore, MD",14721.0
+1988,"Boston, MA",12175.0
+1988,"Buffalo, NY",4271.0
+1988,"Charlotte, NC",6815.0
+1988,"Chicago, IL",69318.0
+1988,"Cincinnati, OH",3199.0
+1988,"Cleveland, OH",7333.0
+1988,"Columbus, OH",5802.0
+1988,"Dallas, TX",21135.0
+1988,"Denver, CO",3634.0
+1988,"Detroit, MI",25805.0
+1988,"El Paso, TX",4505.0
+1988,"Fairfax County, VA",986.0
+1988,"Fort Worth, TX",7326.0
+1988,"Fresno, CA",3997.0
+1988,"Honolulu, HI",2186.0
+1988,"Houston, TX",19817.0
+1988,"Indianapolis, IN",5635.0
+1988,"Jacksonville, FL",0.0
+1988,"Kansas City, MO",8316.0
+1988,"Las Vegas, NV",4024.0
+1988,"Long Beach, CA",5153.0
+1988,"Los Angeles County, CA",12331.0
+1988,"Los Angeles, CA",66736.0
+1988,"Louisville, KY",0.0
+1988,"Memphis, TN",8914.0
+1988,"Mesa, AZ",1396.0
+1988,"Miami, FL",12961.0
+1988,"Miami-Dade County, FL",16436.0
+1988,"Milwaukee, WI",5037.0
+1988,"Minneapolis, MN",5500.0
+1988,"Montgomery County, MD",1884.0
+1988,"Nashville, TN",5290.0
+1988,"Nassau County, NY",2021.0
+1988,"New Orleans, LA",8923.0
+1988,"New York City, NY",162916.0
+1988,"Newark, NJ",9733.0
+1988,"Oakland, CA",6049.0
+1988,"Oklahoma City, OK",3986.0
+1988,"Omaha, NE",2774.0
+1988,"Orlando, FL",3587.0
+1988,"Philadelphia, PA",17082.0
+1988,"Phoenix, AZ",8477.0
+1988,"Pittsburgh, PA",4118.0
+1988,"Portland, OR",8686.0
+1988,"Prince George's County, MD",6014.0
+1988,"Raleigh, NC",1177.0
+1988,"Sacramento, CA",3582.0
+1988,"Salt Lake City, UT",1036.0
+1988,"San Antonio, TX",5273.0
+1988,"San Diego, CA",9171.0
+1988,"San Francisco, CA",9667.0
+1988,"San Jose, CA",4689.0
+1988,"Seattle, WA",6879.0
+1988,"St. Louis, MO",10481.0
+1988,"Suffolk County, NY",2984.0
+1988,"Tampa, FL",0.0
+1988,"Tucson, AZ",3527.0
+1988,"Tulsa, OK",3462.0
+1988,"Virginia Beach, VA",717.0
+1988,"Washington, DC",11913.0
+1988,"Wichita, KS",1655.0
+1989,"Albuquerque, NM",4696.0
+1989,"Arlington, TX",1550.0
+1989,"Atlanta, GA",16852.0
+1989,"Aurora, CO",2859.0
+1989,"Austin, TX",2605.0
+1989,"Baltimore County, MD",7237.0
+1989,"Baltimore, MD",15618.0
+1989,"Boston, MA",12919.0
+1989,"Buffalo, NY",4479.0
+1989,"Charlotte, NC",7640.0
+1989,"Chicago, IL",73590.0
+1989,"Cincinnati, OH",3690.0
+1989,"Cleveland, OH",7965.0
+1989,"Columbus, OH",5986.0
+1989,"Dallas, TX",21228.0
+1989,"Denver, CO",3572.0
+1989,"Detroit, MI",24956.0
+1989,"El Paso, TX",4722.0
+1989,"Fairfax County, VA",1047.0
+1989,"Fort Worth, TX",6668.0
+1989,"Fresno, CA",4289.0
+1989,"Honolulu, HI",2165.0
+1989,"Houston, TX",19528.0
+1989,"Indianapolis, IN",5859.0
+1989,"Jacksonville, FL",9449.0
+1989,"Kansas City, MO",8996.0
+1989,"Las Vegas, NV",4094.0
+1989,"Long Beach, CA",7169.0
+1989,"Los Angeles County, CA",15563.0
+1989,"Los Angeles, CA",77297.0
+1989,"Louisville, KY",0.0
+1989,"Memphis, TN",8030.0
+1989,"Mesa, AZ",1400.0
+1989,"Miami, FL",14093.0
+1989,"Miami-Dade County, FL",19140.0
+1989,"Milwaukee, WI",4270.0
+1989,"Minneapolis, MN",5367.0
+1989,"Montgomery County, MD",1896.0
+1989,"Nashville, TN",5230.0
+1989,"Nassau County, NY",1827.0
+1989,"New Orleans, LA",10203.0
+1989,"New York City, NY",169487.0
+1989,"Newark, NJ",10340.0
+1989,"Oakland, CA",5555.0
+1989,"Oklahoma City, OK",4307.0
+1989,"Omaha, NE",2751.0
+1989,"Orlando, FL",3343.0
+1989,"Philadelphia, PA",18054.0
+1989,"Phoenix, AZ",8481.0
+1989,"Pittsburgh, PA",4579.0
+1989,"Portland, OR",8052.0
+1989,"Prince George's County, MD",6550.0
+1989,"Raleigh, NC",1248.0
+1989,"Sacramento, CA",3658.0
+1989,"Salt Lake City, UT",1197.0
+1989,"San Antonio, TX",5253.0
+1989,"San Diego, CA",10124.0
+1989,"San Francisco, CA",10064.0
+1989,"San Jose, CA",4535.0
+1989,"Seattle, WA",6878.0
+1989,"St. Louis, MO",12644.0
+1989,"Suffolk County, NY",2844.0
+1989,"Tampa, FL",7910.0
+1989,"Tucson, AZ",3187.0
+1989,"Tulsa, OK",4350.0
+1989,"Virginia Beach, VA",762.0
+1989,"Washington, DC",12936.0
+1989,"Wichita, KS",2302.0
+1990,"Albuquerque, NM",5121.0
+1990,"Arlington, TX",1876.0
+1990,"Atlanta, GA",16097.0
+1990,"Aurora, CO",3191.0
+1990,"Austin, TX",3326.0
+1990,"Baltimore County, MD",6957.0
+1990,"Baltimore, MD",17942.0
+1990,"Boston, MA",13664.0
+1990,"Buffalo, NY",5275.0
+1990,"Charlotte, NC",9119.0
+1990,"Chicago, IL",82728.0
+1990,"Cincinnati, OH",4476.0
+1990,"Cleveland, OH",9190.0
+1990,"Columbus, OH",7022.0
+1990,"Dallas, TX",24550.0
+1990,"Denver, CO",4205.0
+1990,"Detroit, MI",27747.0
+1990,"El Paso, TX",5111.0
+1990,"Fairfax County, VA",1013.0
+1990,"Fort Worth, TX",7826.0
+1990,"Fresno, CA",4399.0
+1990,"Honolulu, HI",2412.0
+1990,"Houston, TX",22637.0
+1990,"Indianapolis, IN",6224.0
+1990,"Jacksonville, FL",11654.0
+1990,"Kansas City, MO",11087.0
+1990,"Las Vegas, NV",4510.0
+1990,"Long Beach, CA",8403.0
+1990,"Los Angeles County, CA",17404.0
+1990,"Los Angeles, CA",83809.0
+1990,"Louisville, KY",0.0
+1990,"Memphis, TN",9082.0
+1990,"Mesa, AZ",1724.0
+1990,"Miami, FL",15607.0
+1990,"Miami-Dade County, FL",20130.0
+1990,"Milwaukee, WI",6282.0
+1990,"Minneapolis, MN",4695.0
+1990,"Montgomery County, MD",2089.0
+1990,"Nashville, TN",6886.0
+1990,"Nassau County, NY",1957.0
+1990,"New Orleans, LA",11227.0
+1990,"New York City, NY",174542.0
+1990,"Newark, NJ",10684.0
+1990,"Oakland, CA",5845.0
+1990,"Oklahoma City, OK",4813.0
+1990,"Omaha, NE",3140.0
+1990,"Orlando, FL",4109.0
+1990,"Philadelphia, PA",21387.0
+1990,"Phoenix, AZ",10665.0
+1990,"Pittsburgh, PA",5017.0
+1990,"Portland, OR",7836.0
+1990,"Prince George's County, MD",7526.0
+1990,"Raleigh, NC",1179.0
+1990,"Sacramento, CA",3978.0
+1990,"Salt Lake City, UT",1355.0
+1990,"San Antonio, TX",5730.0
+1990,"San Diego, CA",12047.0
+1990,"San Francisco, CA",12388.0
+1990,"San Jose, CA",4698.0
+1990,"Seattle, WA",7780.0
+1990,"St. Louis, MO",13682.0
+1990,"Suffolk County, NY",3012.0
+1990,"Tampa, FL",9314.0
+1990,"Tucson, AZ",3680.0
+1990,"Tulsa, OK",4898.0
+1990,"Virginia Beach, VA",902.0
+1990,"Washington, DC",14919.0
+1990,"Wichita, KS",2189.0
+1991,"Albuquerque, NM",5591.0
+1991,"Arlington, TX",2108.0
+1991,"Atlanta, GA",16327.0
+1991,"Aurora, CO",3746.0
+1991,"Austin, TX",2968.0
+1991,"Baltimore County, MD",7618.0
+1991,"Baltimore, MD",19032.0
+1991,"Boston, MA",11829.0
+1991,"Buffalo, NY",6042.0
+1991,"Charlotte, NC",8760.0
+1991,"Chicago, IL",90520.0
+1991,"Cincinnati, OH",5794.0
+1991,"Cleveland, OH",9341.0
+1991,"Columbus, OH",7221.0
+1991,"Dallas, TX",26411.0
+1991,"Denver, CO",5034.0
+1991,"Detroit, MI",28262.0
+1991,"El Paso, TX",5616.0
+1991,"Fairfax County, VA",954.0
+1991,"Fort Worth, TX",8914.0
+1991,"Fresno, CA",4608.0
+1991,"Honolulu, HI",2058.0
+1991,"Houston, TX",26651.0
+1991,"Indianapolis, IN",7072.0
+1991,"Jacksonville, FL",10645.0
+1991,"Kansas City, MO",12413.0
+1991,"Las Vegas, NV",5661.0
+1991,"Long Beach, CA",9209.0
+1991,"Los Angeles County, CA",17018.0
+1991,"Los Angeles, CA",89875.0
+1991,"Louisville, KY",0.0
+1991,"Memphis, TN",8818.0
+1991,"Mesa, AZ",2058.0
+1991,"Miami, FL",15420.0
+1991,"Miami-Dade County, FL",19139.0
+1991,"Milwaukee, WI",6228.0
+1991,"Minneapolis, MN",5889.0
+1991,"Montgomery County, MD",2445.0
+1991,"Nashville, TN",7989.0
+1991,"Nassau County, NY",2287.0
+1991,"New Orleans, LA",10969.0
+1991,"New York City, NY",170390.0
+1991,"Newark, NJ",9402.0
+1991,"Oakland, CA",9484.0
+1991,"Oklahoma City, OK",5066.0
+1991,"Omaha, NE",3242.0
+1991,"Orlando, FL",2011.0
+1991,"Philadelphia, PA",22451.0
+1991,"Phoenix, AZ",11010.0
+1991,"Pittsburgh, PA",4294.0
+1991,"Portland, OR",8121.0
+1991,"Prince George's County, MD",7702.0
+1991,"Raleigh, NC",1761.0
+1991,"Sacramento, CA",4896.0
+1991,"Salt Lake City, UT",1319.0
+1991,"San Antonio, TX",7573.0
+1991,"San Diego, CA",13830.0
+1991,"San Francisco, CA",12160.0
+1991,"San Jose, CA",5258.0
+1991,"Seattle, WA",7221.0
+1991,"St. Louis, MO",14076.0
+1991,"Suffolk County, NY",3236.0
+1991,"Tampa, FL",10030.0
+1991,"Tucson, AZ",3896.0
+1991,"Tulsa, OK",4923.0
+1991,"Virginia Beach, VA",1087.0
+1991,"Washington, DC",14665.0
+1991,"Wichita, KS",2672.0
+1992,"Albuquerque, NM",6168.0
+1992,"Arlington, TX",2056.0
+1992,"Atlanta, GA",15856.0
+1992,"Aurora, CO",4064.0
+1992,"Austin, TX",2850.0
+1992,"Baltimore County, MD",7660.0
+1992,"Baltimore, MD",21799.0
+1992,"Boston, MA",11672.0
+1992,"Buffalo, NY",6367.0
+1992,"Charlotte, NC",9456.0
+1992,"Chicago, IL",84242.0
+1992,"Cincinnati, OH",5793.0
+1992,"Cleveland, OH",8532.0
+1992,"Columbus, OH",7029.0
+1992,"Dallas, TX",21682.0
+1992,"Denver, CO",5303.0
+1992,"Detroit, MI",26447.0
+1992,"El Paso, TX",5826.0
+1992,"Fairfax County, VA",1060.0
+1992,"Fort Worth, TX",9392.0
+1992,"Fresno, CA",5363.0
+1992,"Honolulu, HI",2382.0
+1992,"Houston, TX",24837.0
+1992,"Indianapolis, IN",6814.0
+1992,"Jacksonville, FL",11548.0
+1992,"Kansas City, MO",12594.0
+1992,"Las Vegas, NV",6027.0
+1992,"Long Beach, CA",6925.0
+1992,"Los Angeles County, CA",18730.0
+1992,"Los Angeles, CA",88919.0
+1992,"Louisville, KY",0.0
+1992,"Memphis, TN",9764.0
+1992,"Mesa, AZ",2054.0
+1992,"Miami, FL",13945.0
+1992,"Miami-Dade County, FL",18949.0
+1992,"Milwaukee, WI",6332.0
+1992,"Minneapolis, MN",6199.0
+1992,"Montgomery County, MD",2328.0
+1992,"Nashville, TN",8382.0
+1992,"Nassau County, NY",2360.0
+1992,"New Orleans, LA",10007.0
+1992,"New York City, NY",159578.0
+1992,"Newark, NJ",9715.0
+1992,"Oakland, CA",10140.0
+1992,"Oklahoma City, OK",6358.0
+1992,"Omaha, NE",2207.0
+1992,"Orlando, FL",3232.0
+1992,"Philadelphia, PA",19103.0
+1992,"Phoenix, AZ",10907.0
+1992,"Pittsburgh, PA",4495.0
+1992,"Portland, OR",8389.0
+1992,"Prince George's County, MD",7265.0
+1992,"Raleigh, NC",2171.0
+1992,"Sacramento, CA",4674.0
+1992,"Salt Lake City, UT",1317.0
+1992,"San Antonio, TX",7131.0
+1992,"San Diego, CA",14792.0
+1992,"San Francisco, CA",13676.0
+1992,"San Jose, CA",5427.0
+1992,"Seattle, WA",7327.0
+1992,"St. Louis, MO",13247.0
+1992,"Suffolk County, NY",3472.0
+1992,"Tampa, FL",9864.0
+1992,"Tucson, AZ",4327.0
+1992,"Tulsa, OK",5008.0
+1992,"Virginia Beach, VA",1155.0
+1992,"Washington, DC",16680.0
+1992,"Wichita, KS",2754.0
+1993,"Albuquerque, NM",6696.0
+1993,"Arlington, TX",2259.0
+1993,"Atlanta, GA",16281.0
+1993,"Aurora, CO",4457.0
+1993,"Austin, TX",3011.0
+1993,"Baltimore County, MD",7451.0
+1993,"Baltimore, MD",21945.0
+1993,"Boston, MA",10843.0
+1993,"Buffalo, NY",6041.0
+1993,"Charlotte, NC",9725.0
+1993,"Chicago, IL",79183.0
+1993,"Cincinnati, OH",5621.0
+1993,"Cleveland, OH",8310.0
+1993,"Columbus, OH",7146.0
+1993,"Dallas, TX",18176.0
+1993,"Denver, CO",5252.0
+1993,"Detroit, MI",28358.0
+1993,"El Paso, TX",6109.0
+1993,"Fairfax County, VA",920.0
+1993,"Fort Worth, TX",6979.0
+1993,"Fresno, CA",5511.0
+1993,"Honolulu, HI",2501.0
+1993,"Houston, TX",25069.0
+1993,"Indianapolis, IN",6292.0
+1993,"Jacksonville, FL",11417.0
+1993,"Kansas City, MO",10961.0
+1993,"Las Vegas, NV",7281.0
+1993,"Long Beach, CA",7116.0
+1993,"Los Angeles County, CA",16054.0
+1993,"Los Angeles, CA",83701.0
+1993,"Louisville, KY",0.0
+1993,"Memphis, TN",10113.0
+1993,"Mesa, AZ",2335.0
+1993,"Miami, FL",14502.0
+1993,"Miami-Dade County, FL",20761.0
+1993,"Milwaukee, WI",6014.0
+1993,"Minneapolis, MN",6481.0
+1993,"Montgomery County, MD",2110.0
+1993,"Nashville, TN",9164.0
+1993,"Nassau County, NY",2117.0
+1993,"New Orleans, LA",10024.0
+1993,"New York City, NY",153543.0
+1993,"Newark, NJ",10222.0
+1993,"Oakland, CA",9809.0
+1993,"Oklahoma City, OK",6480.0
+1993,"Omaha, NE",3899.0
+1993,"Orlando, FL",4140.0
+1993,"Philadelphia, PA",19576.0
+1993,"Phoenix, AZ",11911.0
+1993,"Pittsburgh, PA",4479.0
+1993,"Portland, OR",8445.0
+1993,"Prince George's County, MD",7905.0
+1993,"Raleigh, NC",2030.0
+1993,"Sacramento, CA",4850.0
+1993,"Salt Lake City, UT",1402.0
+1993,"San Antonio, TX",6725.0
+1993,"San Diego, CA",13463.0
+1993,"San Francisco, CA",13365.0
+1993,"San Jose, CA",5317.0
+1993,"Seattle, WA",7437.0
+1993,"St. Louis, MO",14998.0
+1993,"Suffolk County, NY",3138.0
+1993,"Tampa, FL",9379.0
+1993,"Tucson, AZ",4363.0
+1993,"Tulsa, OK",4921.0
+1993,"Virginia Beach, VA",1248.0
+1993,"Washington, DC",16888.0
+1993,"Wichita, KS",2743.0
+1994,"Albuquerque, NM",6707.0
+1994,"Arlington, TX",2443.0
+1994,"Atlanta, GA",14684.0
+1994,"Aurora, CO",3661.0
+1994,"Austin, TX",3249.0
+1994,"Baltimore County, MD",7188.0
+1994,"Baltimore, MD",20951.0
+1994,"Boston, MA",10664.0
+1994,"Buffalo, NY",6890.0
+1994,"Charlotte, NC",9102.0
+1994,"Chicago, IL",78291.0
+1994,"Cincinnati, OH",4855.0
+1994,"Cleveland, OH",7744.0
+1994,"Columbus, OH",6761.0
+1994,"Dallas, TX",16886.0
+1994,"Denver, CO",4706.0
+1994,"Detroit, MI",27471.0
+1994,"El Paso, TX",5369.0
+1994,"Fairfax County, VA",912.0
+1994,"Fort Worth, TX",6035.0
+1994,"Fresno, CA",6199.0
+1994,"Honolulu, HI",2528.0
+1994,"Houston, TX",22986.0
+1994,"Indianapolis, IN",6467.0
+1994,"Jacksonville, FL",10423.0
+1994,"Kansas City, MO",10693.0
+1994,"Las Vegas, NV",9418.0
+1994,"Long Beach, CA",6324.0
+1994,"Los Angeles County, CA",15078.0
+1994,"Los Angeles, CA",73102.0
+1994,"Louisville, KY",0.0
+1994,"Memphis, TN",9855.0
+1994,"Mesa, AZ",2364.0
+1994,"Miami, FL",12971.0
+1994,"Miami-Dade County, FL",19518.0
+1994,"Milwaukee, WI",6562.0
+1994,"Minneapolis, MN",7074.0
+1994,"Montgomery County, MD",2146.0
+1994,"Nashville, TN",9375.0
+1994,"Nassau County, NY",1963.0
+1994,"New Orleans, LA",9321.0
+1994,"New York City, NY",136522.0
+1994,"Newark, NJ",10409.0
+1994,"Oakland, CA",8330.0
+1994,"Oklahoma City, OK",6471.0
+1994,"Omaha, NE",3930.0
+1994,"Orlando, FL",4109.0
+1994,"Philadelphia, PA",20638.0
+1994,"Phoenix, AZ",11627.0
+1994,"Pittsburgh, PA",4105.0
+1994,"Portland, OR",8808.0
+1994,"Prince George's County, MD",7378.0
+1994,"Raleigh, NC",2170.0
+1994,"Sacramento, CA",4698.0
+1994,"Salt Lake City, UT",1320.0
+1994,"San Antonio, TX",6471.0
+1994,"San Diego, CA",12599.0
+1994,"San Francisco, CA",10837.0
+1994,"San Jose, CA",5915.0
+1994,"Seattle, WA",6538.0
+1994,"St. Louis, MO",14644.0
+1994,"Suffolk County, NY",2523.0
+1994,"Tampa, FL",10262.0
+1994,"Tucson, AZ",4882.0
+1994,"Tulsa, OK",4639.0
+1994,"Virginia Beach, VA",1158.0
+1994,"Washington, DC",15177.0
+1994,"Wichita, KS",2350.0
+1995,"Albuquerque, NM",4735.0
+1995,"Arlington, TX",2576.0
+1995,"Atlanta, GA",14744.0
+1995,"Aurora, CO",1958.0
+1995,"Austin, TX",4050.0
+1995,"Baltimore County, MD",7663.0
+1995,"Baltimore, MD",21492.0
+1995,"Boston, MA",9569.0
+1995,"Buffalo, NY",6333.0
+1995,"Charlotte, NC",9228.0
+1995,"Chicago, IL",73011.0
+1995,"Cincinnati, OH",4640.0
+1995,"Cleveland, OH",8150.0
+1995,"Columbus, OH",6624.0
+1995,"Dallas, TX",15969.0
+1995,"Denver, CO",4357.0
+1995,"Detroit, MI",24011.0
+1995,"El Paso, TX",4948.0
+1995,"Fairfax County, VA",897.0
+1995,"Fort Worth, TX",5344.0
+1995,"Fresno, CA",5659.0
+1995,"Honolulu, HI",2882.0
+1995,"Houston, TX",22260.0
+1995,"Indianapolis, IN",5707.0
+1995,"Jacksonville, FL",9596.0
+1995,"Kansas City, MO",9734.0
+1995,"Las Vegas, NV",9523.0
+1995,"Long Beach, CA",5649.0
+1995,"Los Angeles County, CA",14140.0
+1995,"Los Angeles, CA",70518.0
+1995,"Louisville, KY",0.0
+1995,"Memphis, TN",11039.0
+1995,"Mesa, AZ",2638.0
+1995,"Miami, FL",12927.0
+1995,"Miami-Dade County, FL",18560.0
+1995,"Milwaukee, WI",6737.0
+1995,"Minneapolis, MN",7076.0
+1995,"Montgomery County, MD",2359.0
+1995,"Nashville, TN",9376.0
+1995,"Nassau County, NY",1867.0
+1995,"New Orleans, LA",10876.0
+1995,"New York City, NY",114023.0
+1995,"Newark, NJ",10371.0
+1995,"Oakland, CA",8323.0
+1995,"Oklahoma City, OK",6027.0
+1995,"Omaha, NE",3585.0
+1995,"Orlando, FL",3772.0
+1995,"Philadelphia, PA",21860.0
+1995,"Phoenix, AZ",11590.0
+1995,"Pittsburgh, PA",3474.0
+1995,"Portland, OR",8833.0
+1995,"Prince George's County, MD",7926.0
+1995,"Raleigh, NC",2039.0
+1995,"Sacramento, CA",4280.0
+1995,"Salt Lake City, UT",1375.0
+1995,"San Antonio, TX",5178.0
+1995,"San Diego, CA",11077.0
+1995,"San Francisco, CA",10903.0
+1995,"San Jose, CA",6649.0
+1995,"Seattle, WA",4904.0
+1995,"St. Louis, MO",12452.0
+1995,"Suffolk County, NY",2269.0
+1995,"Tampa, FL",8735.0
+1995,"Tucson, AZ",5427.0
+1995,"Tulsa, OK",4359.0
+1995,"Virginia Beach, VA",968.0
+1995,"Washington, DC",14745.0
+1995,"Wichita, KS",2185.0
+1996,"Albuquerque, NM",6267.0
+1996,"Arlington, TX",2478.0
+1996,"Atlanta, GA",13699.0
+1996,"Aurora, CO",1629.0
+1996,"Austin, TX",3821.0
+1996,"Baltimore County, MD",7408.0
+1996,"Baltimore, MD",19509.0
+1996,"Boston, MA",9154.0
+1996,"Buffalo, NY",4524.0
+1996,"Charlotte, NC",8915.0
+1996,"Chicago, IL",67498.0
+1996,"Cincinnati, OH",3921.0
+1996,"Cleveland, OH",7631.0
+1996,"Columbus, OH",6216.0
+1996,"Dallas, TX",16280.0
+1996,"Denver, CO",3832.0
+1996,"Detroit, MI",23239.0
+1996,"El Paso, TX",5138.0
+1996,"Fairfax County, VA",943.0
+1996,"Fort Worth, TX",4984.0
+1996,"Fresno, CA",5461.0
+1996,"Honolulu, HI",2748.0
+1996,"Houston, TX",22456.0
+1996,"Indianapolis, IN",7418.0
+1996,"Jacksonville, FL",9765.0
+1996,"Kansas City, MO",8885.0
+1996,"Las Vegas, NV",8409.0
+1996,"Long Beach, CA",5069.0
+1996,"Los Angeles County, CA",12772.0
+1996,"Los Angeles, CA",62840.0
+1996,"Louisville, KY",0.0
+1996,"Memphis, TN",12535.0
+1996,"Mesa, AZ",2459.0
+1996,"Miami, FL",11990.0
+1996,"Miami-Dade County, FL",19025.0
+1996,"Milwaukee, WI",5974.0
+1996,"Minneapolis, MN",6808.0
+1996,"Montgomery County, MD",2165.0
+1996,"Nashville, TN",10021.0
+1996,"Nassau County, NY",1835.0
+1996,"New Orleans, LA",11021.0
+1996,"New York City, NY",98660.0
+1996,"Newark, NJ",8761.0
+1996,"Oakland, CA",8168.0
+1996,"Oklahoma City, OK",5308.0
+1996,"Omaha, NE",4742.0
+1996,"Orlando, FL",4002.0
+1996,"Philadelphia, PA",20190.0
+1996,"Phoenix, AZ",10529.0
+1996,"Pittsburgh, PA",2850.0
+1996,"Portland, OR",7835.0
+1996,"Prince George's County, MD",7307.0
+1996,"Raleigh, NC",2109.0
+1996,"Sacramento, CA",3707.0
+1996,"Salt Lake City, UT",1501.0
+1996,"San Antonio, TX",4741.0
+1996,"San Diego, CA",10148.0
+1996,"San Francisco, CA",9886.0
+1996,"San Jose, CA",6075.0
+1996,"Seattle, WA",4543.0
+1996,"St. Louis, MO",10203.0
+1996,"Suffolk County, NY",2068.0
+1996,"Tampa, FL",8689.0
+1996,"Tucson, AZ",5199.0
+1996,"Tulsa, OK",4428.0
+1996,"Virginia Beach, VA",1075.0
+1996,"Washington, DC",13411.0
+1996,"Wichita, KS",2372.0
+1997,"Albuquerque, NM",5677.0
+1997,"Arlington, TX",2420.0
+1997,"Atlanta, GA",12830.0
+1997,"Aurora, CO",1658.0
+1997,"Austin, TX",3527.0
+1997,"Baltimore County, MD",7298.0
+1997,"Baltimore, MD",17416.0
+1997,"Boston, MA",7886.0
+1997,"Buffalo, NY",4013.0
+1997,"Charlotte, NC",9165.0
+1997,"Chicago, IL",65110.0
+1997,"Cincinnati, OH",0.0
+1997,"Cleveland, OH",7244.0
+1997,"Columbus, OH",5987.0
+1997,"Dallas, TX",14915.0
+1997,"Denver, CO",3535.0
+1997,"Detroit, MI",21976.0
+1997,"El Paso, TX",4849.0
+1997,"Fairfax County, VA",909.0
+1997,"Fort Worth, TX",4313.0
+1997,"Fresno, CA",4782.0
+1997,"Honolulu, HI",2636.0
+1997,"Houston, TX",21157.0
+1997,"Indianapolis, IN",7852.0
+1997,"Jacksonville, FL",9437.0
+1997,"Kansas City, MO",8569.0
+1997,"Las Vegas, NV",9052.0
+1997,"Long Beach, CA",4207.0
+1997,"Los Angeles County, CA",11427.0
+1997,"Los Angeles, CA",56538.0
+1997,"Louisville, KY",0.0
+1997,"Memphis, TN",11836.0
+1997,"Mesa, AZ",2554.0
+1997,"Miami, FL",11018.0
+1997,"Miami-Dade County, FL",16995.0
+1997,"Milwaukee, WI",6618.0
+1997,"Minneapolis, MN",6733.0
+1997,"Montgomery County, MD",2133.0
+1997,"Nashville, TN",9291.0
+1997,"Nassau County, NY",1614.0
+1997,"New Orleans, LA",8404.0
+1997,"New York City, NY",92853.0
+1997,"Newark, NJ",7227.0
+1997,"Oakland, CA",8229.0
+1997,"Oklahoma City, OK",5065.0
+1997,"Omaha, NE",4873.0
+1997,"Orlando, FL",4240.0
+1997,"Philadelphia, PA",19204.0
+1997,"Phoenix, AZ",10376.0
+1997,"Pittsburgh, PA",2778.0
+1997,"Portland, OR",7600.0
+1997,"Prince George's County, MD",6331.0
+1997,"Raleigh, NC",2256.0
+1997,"Sacramento, CA",3717.0
+1997,"Salt Lake City, UT",1467.0
+1997,"San Antonio, TX",4170.0
+1997,"San Diego, CA",9789.0
+1997,"San Francisco, CA",8549.0
+1997,"San Jose, CA",6191.0
+1997,"Seattle, WA",5002.0
+1997,"St. Louis, MO",9591.0
+1997,"Suffolk County, NY",2080.0
+1997,"Tampa, FL",7988.0
+1997,"Tucson, AZ",5116.0
+1997,"Tulsa, OK",4596.0
+1997,"Virginia Beach, VA",1064.0
+1997,"Washington, DC",10706.0
+1997,"Wichita, KS",2631.0
+1998,"Albuquerque, NM",5563.0
+1998,"Arlington, TX",1859.0
+1998,"Atlanta, GA",12624.0
+1998,"Aurora, CO",1496.0
+1998,"Austin, TX",3026.0
+1998,"Baltimore County, MD",6104.0
+1998,"Baltimore, MD",16025.0
+1998,"Boston, MA",7427.0
+1998,"Buffalo, NY",3485.0
+1998,"Charlotte, NC",8627.0
+1998,"Chicago, IL",62317.0
+1998,"Cincinnati, OH",0.0
+1998,"Cleveland, OH",6481.0
+1998,"Columbus, OH",5401.0
+1998,"Dallas, TX",15932.0
+1998,"Denver, CO",2916.0
+1998,"Detroit, MI",24427.0
+1998,"El Paso, TX",4374.0
+1998,"Fairfax County, VA",886.0
+1998,"Fort Worth, TX",4329.0
+1998,"Fresno, CA",4254.0
+1998,"Honolulu, HI",2342.0
+1998,"Houston, TX",20183.0
+1998,"Indianapolis, IN",8624.0
+1998,"Jacksonville, FL",8113.0
+1998,"Kansas City, MO",8362.0
+1998,"Las Vegas, NV",7051.0
+1998,"Long Beach, CA",3697.0
+1998,"Los Angeles County, CA",10270.0
+1998,"Los Angeles, CA",49201.0
+1998,"Louisville, KY",0.0
+1998,"Memphis, TN",9057.0
+1998,"Mesa, AZ",2413.0
+1998,"Miami, FL",9505.0
+1998,"Miami-Dade County, FL",14675.0
+1998,"Milwaukee, WI",5895.0
+1998,"Minneapolis, MN",5524.0
+1998,"Montgomery County, MD",1838.0
+1998,"Nashville, TN",8550.0
+1998,"Nassau County, NY",1556.0
+1998,"New Orleans, LA",6888.0
+1998,"New York City, NY",85891.0
+1998,"Newark, NJ",5637.0
+1998,"Oakland, CA",7008.0
+1998,"Oklahoma City, OK",4616.0
+1998,"Omaha, NE",4841.0
+1998,"Orlando, FL",4088.0
+1998,"Philadelphia, PA",21226.0
+1998,"Phoenix, AZ",10201.0
+1998,"Pittsburgh, PA",3156.0
+1998,"Portland, OR",6707.0
+1998,"Prince George's County, MD",6963.0
+1998,"Raleigh, NC",2116.0
+1998,"Sacramento, CA",3376.0
+1998,"Salt Lake City, UT",1465.0
+1998,"San Antonio, TX",4969.0
+1998,"San Diego, CA",8744.0
+1998,"San Francisco, CA",7337.0
+1998,"San Jose, CA",5155.0
+1998,"Seattle, WA",4475.0
+1998,"St. Louis, MO",8848.0
+1998,"Suffolk County, NY",2249.0
+1998,"Tampa, FL",7543.0
+1998,"Tucson, AZ",4834.0
+1998,"Tulsa, OK",4370.0
+1998,"Virginia Beach, VA",990.0
+1998,"Washington, DC",8988.0
+1998,"Wichita, KS",2190.0
+1999,"Albuquerque, NM",5255.0
+1999,"Arlington, TX",1951.0
+1999,"Atlanta, GA",11226.0
+1999,"Aurora, CO",1454.0
+1999,"Austin, TX",2790.0
+1999,"Baltimore County, MD",6067.0
+1999,"Baltimore, MD",18677.0
+1999,"Boston, MA",7263.0
+1999,"Buffalo, NY",3243.0
+1999,"Charlotte, NC",8138.0
+1999,"Chicago, IL",51347.0
+1999,"Cincinnati, OH",2491.0
+1999,"Cleveland, OH",6051.0
+1999,"Columbus, OH",5755.0
+1999,"Dallas, TX",15435.0
+1999,"Denver, CO",2909.0
+1999,"Detroit, MI",21976.0
+1999,"El Paso, TX",4280.0
+1999,"Fairfax County, VA",575.0
+1999,"Fort Worth, TX",4246.0
+1999,"Fresno, CA",4008.0
+1999,"Honolulu, HI",2198.0
+1999,"Houston, TX",21517.0
+1999,"Indianapolis, IN",7714.0
+1999,"Jacksonville, FL",7265.0
+1999,"Kansas City, MO",7766.0
+1999,"Las Vegas, NV",6133.0
+1999,"Long Beach, CA",3257.0
+1999,"Los Angeles County, CA",9015.0
+1999,"Los Angeles, CA",46840.0
+1999,"Louisville, KY",0.0
+1999,"Memphis, TN",8602.0
+1999,"Mesa, AZ",2132.0
+1999,"Miami, FL",7861.0
+1999,"Miami-Dade County, FL",12628.0
+1999,"Milwaukee, WI",6061.0
+1999,"Minneapolis, MN",4943.0
+1999,"Montgomery County, MD",1558.0
+1999,"Nashville, TN",8405.0
+1999,"Nassau County, NY",1530.0
+1999,"New Orleans, LA",5931.0
+1999,"New York City, NY",78945.0
+1999,"Newark, NJ",4867.0
+1999,"Oakland, CA",5754.0
+1999,"Oklahoma City, OK",4071.0
+1999,"Omaha, NE",4613.0
+1999,"Orlando, FL",3922.0
+1999,"Philadelphia, PA",23031.0
+1999,"Phoenix, AZ",10199.0
+1999,"Pittsburgh, PA",3046.0
+1999,"Portland, OR",6294.0
+1999,"Prince George's County, MD",5925.0
+1999,"Raleigh, NC",2031.0
+1999,"Sacramento, CA",3084.0
+1999,"Salt Lake City, UT",1258.0
+1999,"San Antonio, TX",6340.0
+1999,"San Diego, CA",7411.0
+1999,"San Francisco, CA",6555.0
+1999,"San Jose, CA",5088.0
+1999,"Seattle, WA",4166.0
+1999,"St. Louis, MO",7611.0
+1999,"Suffolk County, NY",1953.0
+1999,"Tampa, FL",6603.0
+1999,"Tucson, AZ",4307.0
+1999,"Tulsa, OK",4447.0
+1999,"Virginia Beach, VA",1044.0
+1999,"Washington, DC",8448.0
+1999,"Wichita, KS",1927.0
+2000,"Albuquerque, NM",5136.0
+2000,"Arlington, TX",2157.0
+2000,"Atlanta, GA",11583.0
+2000,"Aurora, CO",1513.0
+2000,"Austin, TX",3098.0
+2000,"Baltimore County, MD",6176.0
+2000,"Baltimore, MD",16003.0
+2000,"Boston, MA",7322.0
+2000,"Buffalo, NY",3657.0
+2000,"Charlotte, NC",7516.0
+2000,"Chicago, IL",48522.0
+2000,"Cincinnati, OH",2783.0
+2000,"Cleveland, OH",6041.0
+2000,"Columbus, OH",5998.0
+2000,"Dallas, TX",16042.0
+2000,"Denver, CO",2885.0
+2000,"Detroit, MI",22112.0
+2000,"El Paso, TX",4396.0
+2000,"Fairfax County, VA",154.0
+2000,"Fort Worth, TX",3816.0
+2000,"Fresno, CA",3843.0
+2000,"Honolulu, HI",2302.0
+2000,"Houston, TX",21491.0
+2000,"Indianapolis, IN",6843.0
+2000,"Jacksonville, FL",8207.0
+2000,"Kansas City, MO",7181.0
+2000,"Las Vegas, NV",6349.0
+2000,"Long Beach, CA",3216.0
+2000,"Los Angeles County, CA",9401.0
+2000,"Los Angeles, CA",50241.0
+2000,"Louisville, KY",0.0
+2000,"Memphis, TN",9616.0
+2000,"Mesa, AZ",2393.0
+2000,"Miami, FL",7877.0
+2000,"Miami-Dade County, FL",12604.0
+2000,"Milwaukee, WI",5711.0
+2000,"Minneapolis, MN",4404.0
+2000,"Montgomery County, MD",1692.0
+2000,"Nashville, TN",8978.0
+2000,"Nassau County, NY",1462.0
+2000,"New Orleans, LA",5155.0
+2000,"New York City, NY",75692.0
+2000,"Newark, NJ",4092.0
+2000,"Oakland, CA",5038.0
+2000,"Oklahoma City, OK",3951.0
+2000,"Omaha, NE",3164.0
+2000,"Orlando, FL",3926.0
+2000,"Philadelphia, PA",22812.0
+2000,"Phoenix, AZ",9754.0
+2000,"Pittsburgh, PA",3267.0
+2000,"Portland, OR",5698.0
+2000,"Prince George's County, MD",6503.0
+2000,"Raleigh, NC",2049.0
+2000,"Sacramento, CA",3117.0
+2000,"Salt Lake City, UT",1301.0
+2000,"San Antonio, TX",7908.0
+2000,"San Diego, CA",7160.0
+2000,"San Francisco, CA",6499.0
+2000,"San Jose, CA",4928.0
+2000,"Seattle, WA",4333.0
+2000,"St. Louis, MO",7936.0
+2000,"Suffolk County, NY",2393.0
+2000,"Tampa, FL",6381.0
+2000,"Tucson, AZ",4542.0
+2000,"Tulsa, OK",4411.0
+2000,"Virginia Beach, VA",943.0
+2000,"Washington, DC",8622.0
+2000,"Wichita, KS",2081.0
+2001,"Albuquerque, NM",5259.0
+2001,"Arlington, TX",2129.0
+2001,"Atlanta, GA",10807.0
+2001,"Aurora, CO",1611.0
+2001,"Austin, TX",3181.0
+2001,"Baltimore County, MD",6542.0
+2001,"Baltimore, MD",14799.0
+2001,"Boston, MA",7361.0
+2001,"Buffalo, NY",3709.0
+2001,"Charlotte, NC",7775.0
+2001,"Chicago, IL",46608.0
+2001,"Cincinnati, OH",4007.0
+2001,"Cleveland, OH",6424.0
+2001,"Columbus, OH",6396.0
+2001,"Dallas, TX",17776.0
+2001,"Denver, CO",3074.0
+2001,"Detroit, MI",20947.0
+2001,"El Paso, TX",4386.0
+2001,"Fairfax County, VA",249.0
+2001,"Fort Worth, TX",3864.0
+2001,"Fresno, CA",4096.0
+2001,"Honolulu, HI",2453.0
+2001,"Houston, TX",23419.0
+2001,"Indianapolis, IN",7428.0
+2001,"Jacksonville, FL",7388.0
+2001,"Kansas City, MO",7081.0
+2001,"Las Vegas, NV",7549.0
+2001,"Long Beach, CA",3413.0
+2001,"Los Angeles County, CA",7997.0
+2001,"Los Angeles, CA",52243.0
+2001,"Louisville, KY",0.0
+2001,"Memphis, TN",10906.0
+2001,"Mesa, AZ",2516.0
+2001,"Miami, FL",7210.0
+2001,"Miami-Dade County, FL",12309.0
+2001,"Milwaukee, WI",5463.0
+2001,"Minneapolis, MN",4101.0
+2001,"Montgomery County, MD",1812.0
+2001,"Nashville, TN",9059.0
+2001,"Nassau County, NY",1755.0
+2001,"New Orleans, LA",5877.0
+2001,"New York City, NY",68173.0
+2001,"Newark, NJ",3837.0
+2001,"Oakland, CA",5330.0
+2001,"Oklahoma City, OK",4183.0
+2001,"Omaha, NE",2708.0
+2001,"Orlando, FL",3685.0
+2001,"Philadelphia, PA",21404.0
+2001,"Phoenix, AZ",10532.0
+2001,"Pittsburgh, PA",2964.0
+2001,"Portland, OR",4556.0
+2001,"Prince George's County, MD",7202.0
+2001,"Raleigh, NC",2187.0
+2001,"Sacramento, CA",3309.0
+2001,"Salt Lake City, UT",1166.0
+2001,"San Antonio, TX",9546.0
+2001,"San Diego, CA",7405.0
+2001,"San Francisco, CA",6784.0
+2001,"San Jose, CA",5564.0
+2001,"Seattle, WA",4150.0
+2001,"St. Louis, MO",7664.0
+2001,"Suffolk County, NY",2741.0
+2001,"Tampa, FL",6616.0
+2001,"Tucson, AZ",4823.0
+2001,"Tulsa, OK",4547.0
+2001,"Virginia Beach, VA",838.0
+2001,"Washington, DC",9192.0
+2001,"Wichita, KS",2443.0
+2002,"Albuquerque, NM",4889.0
+2002,"Arlington, TX",2202.0
+2002,"Atlanta, GA",9969.0
+2002,"Aurora, CO",1827.0
+2002,"Austin, TX",3203.0
+2002,"Baltimore County, MD",6531.0
+2002,"Baltimore, MD",13789.0
+2002,"Boston, MA",6956.0
+2002,"Buffalo, NY",3757.0
+2002,"Charlotte, NC",7583.0
+2002,"Chicago, IL",45985.0
+2002,"Cincinnati, OH",4250.0
+2002,"Cleveland, OH",6364.0
+2002,"Columbus, OH",6499.0
+2002,"Dallas, TX",17018.0
+2002,"Denver, CO",3104.0
+2002,"Detroit, MI",19940.0
+2002,"El Paso, TX",3892.0
+2002,"Fairfax County, VA",480.0
+2002,"Fort Worth, TX",4243.0
+2002,"Fresno, CA",3780.0
+2002,"Honolulu, HI",2601.0
+2002,"Houston, TX",24958.0
+2002,"Indianapolis, IN",7518.0
+2002,"Jacksonville, FL",7043.0
+2002,"Kansas City, MO",6054.0
+2002,"Las Vegas, NV",8981.0
+2002,"Long Beach, CA",3626.0
+2002,"Los Angeles County, CA",8504.0
+2002,"Los Angeles, CA",51695.0
+2002,"Louisville, KY",0.0
+2002,"Memphis, TN",10416.0
+2002,"Mesa, AZ",2887.0
+2002,"Miami, FL",7228.0
+2002,"Miami-Dade County, FL",11901.0
+2002,"Milwaukee, WI",5782.0
+2002,"Minneapolis, MN",4123.0
+2002,"Montgomery County, MD",1942.0
+2002,"Nashville, TN",8684.0
+2002,"Nassau County, NY",1783.0
+2002,"New Orleans, LA",4556.0
+2002,"New York City, NY",63839.0
+2002,"Newark, NJ",3193.0
+2002,"Oakland, CA",5661.0
+2002,"Oklahoma City, OK",4214.0
+2002,"Omaha, NE",2829.0
+2002,"Orlando, FL",3619.0
+2002,"Philadelphia, PA",20057.0
+2002,"Phoenix, AZ",10223.0
+2002,"Pittsburgh, PA",3794.0
+2002,"Portland, OR",4512.0
+2002,"Prince George's County, MD",7430.0
+2002,"Raleigh, NC",1966.0
+2002,"Sacramento, CA",3547.0
+2002,"Salt Lake City, UT",1238.0
+2002,"San Antonio, TX",9769.0
+2002,"San Diego, CA",7193.0
+2002,"San Francisco, CA",6059.0
+2002,"San Jose, CA",4134.0
+2002,"Seattle, WA",4092.0
+2002,"St. Louis, MO",7499.0
+2002,"Suffolk County, NY",2496.0
+2002,"Tampa, FL",6289.0
+2002,"Tucson, AZ",4709.0
+2002,"Tulsa, OK",4323.0
+2002,"Virginia Beach, VA",960.0
+2002,"Washington, DC",9109.0
+2002,"Wichita, KS",2368.0
+2003,"Albuquerque, NM",4439.0
+2003,"Arlington, TX",1863.0
+2003,"Atlanta, GA",8490.0
+2003,"Aurora, CO",1700.0
+2003,"Austin, TX",3153.0
+2003,"Baltimore County, MD",6170.0
+2003,"Baltimore, MD",11183.0
+2003,"Boston, MA",7173.0
+2003,"Buffalo, NY",3924.0
+2003,"Charlotte, NC",7194.0
+2003,"Chicago, IL",39483.0
+2003,"Cincinnati, OH",3656.0
+2003,"Cleveland, OH",6200.0
+2003,"Columbus, OH",6215.0
+2003,"Dallas, TX",16865.0
+2003,"Denver, CO",3531.0
+2003,"Detroit, MI",18724.0
+2003,"El Paso, TX",3502.0
+2003,"Fairfax County, VA",648.0
+2003,"Fort Worth, TX",3751.0
+2003,"Fresno, CA",3505.0
+2003,"Honolulu, HI",2606.0
+2003,"Houston, TX",23988.0
+2003,"Indianapolis, IN",7067.0
+2003,"Jacksonville, FL",6729.0
+2003,"Kansas City, MO",6151.0
+2003,"Las Vegas, NV",9158.0
+2003,"Long Beach, CA",3579.0
+2003,"Los Angeles County, CA",7971.0
+2003,"Los Angeles, CA",48824.0
+2003,"Louisville, KY",3323.0
+2003,"Memphis, TN",10312.0
+2003,"Mesa, AZ",2346.0
+2003,"Miami, FL",7157.0
+2003,"Miami-Dade County, FL",11583.0
+2003,"Milwaukee, WI",5290.0
+2003,"Minneapolis, MN",4517.0
+2003,"Montgomery County, MD",2115.0
+2003,"Nashville, TN",8332.0
+2003,"Nassau County, NY",1790.0
+2003,"New Orleans, LA",4596.0
+2003,"New York City, NY",59448.0
+2003,"Newark, NJ",2731.0
+2003,"Oakland, CA",5613.0
+2003,"Oklahoma City, OK",4642.0
+2003,"Omaha, NE",2627.0
+2003,"Orlando, FL",3322.0
+2003,"Philadelphia, PA",20620.0
+2003,"Phoenix, AZ",9722.0
+2003,"Pittsburgh, PA",3559.0
+2003,"Portland, OR",4436.0
+2003,"Prince George's County, MD",6917.0
+2003,"Raleigh, NC",2004.0
+2003,"Sacramento, CA",3420.0
+2003,"Salt Lake City, UT",1296.0
+2003,"San Antonio, TX",7252.0
+2003,"San Diego, CA",7366.0
+2003,"San Francisco, CA",5725.0
+2003,"San Jose, CA",3378.0
+2003,"Seattle, WA",3944.0
+2003,"St. Louis, MO",7424.0
+2003,"Suffolk County, NY",2401.0
+2003,"Tampa, FL",5733.0
+2003,"Tucson, AZ",4709.0
+2003,"Tulsa, OK",4304.0
+2003,"Virginia Beach, VA",932.0
+2003,"Washington, DC",8839.0
+2003,"Wichita, KS",2229.0
+2004,"Albuquerque, NM",4720.0
+2004,"Arlington, TX",1893.0
+2004,"Atlanta, GA",7921.0
+2004,"Aurora, CO",1739.0
+2004,"Austin, TX",3588.0
+2004,"Baltimore County, MD",6147.0
+2004,"Baltimore, MD",11667.0
+2004,"Boston, MA",6917.0
+2004,"Buffalo, NY",3804.0
+2004,"Charlotte, NC",7275.0
+2004,"Chicago, IL",36863.0
+2004,"Cincinnati, OH",3668.0
+2004,"Cleveland, OH",6007.0
+2004,"Columbus, OH",5939.0
+2004,"Dallas, TX",16165.0
+2004,"Denver, CO",4490.0
+2004,"Detroit, MI",15913.0
+2004,"El Paso, TX",3242.0
+2004,"Fairfax County, VA",594.0
+2004,"Fort Worth, TX",3784.0
+2004,"Fresno, CA",3496.0
+2004,"Honolulu, HI",2507.0
+2004,"Houston, TX",23427.0
+2004,"Indianapolis, IN",7067.0
+2004,"Jacksonville, FL",6533.0
+2004,"Kansas City, MO",6449.0
+2004,"Las Vegas, NV",9783.0
+2004,"Long Beach, CA",3755.0
+2004,"Los Angeles County, CA",7201.0
+2004,"Los Angeles, CA",42786.0
+2004,"Louisville, KY",3280.0
+2004,"Memphis, TN",10093.0
+2004,"Mesa, AZ",2500.0
+2004,"Miami, FL",6461.0
+2004,"Miami-Dade County, FL",9193.0
+2004,"Milwaukee, WI",4637.0
+2004,"Minneapolis, MN",4726.0
+2004,"Montgomery County, MD",1934.0
+2004,"Nashville, TN",8615.0
+2004,"Nassau County, NY",1760.0
+2004,"New Orleans, LA",4467.0
+2004,"New York City, NY",55688.0
+2004,"Newark, NJ",2867.0
+2004,"Oakland, CA",5151.0
+2004,"Oklahoma City, OK",4321.0
+2004,"Omaha, NE",2608.0
+2004,"Orlando, FL",3562.0
+2004,"Philadelphia, PA",20902.0
+2004,"Phoenix, AZ",9465.0
+2004,"Pittsburgh, PA",3739.0
+2004,"Portland, OR",4034.0
+2004,"Prince George's County, MD",7141.0
+2004,"Raleigh, NC",1867.0
+2004,"Sacramento, CA",4730.0
+2004,"Salt Lake City, UT",1329.0
+2004,"San Antonio, TX",7846.0
+2004,"San Diego, CA",6774.0
+2004,"San Francisco, CA",5757.0
+2004,"San Jose, CA",3379.0
+2004,"Seattle, WA",3798.0
+2004,"St. Louis, MO",6957.0
+2004,"Suffolk County, NY",2268.0
+2004,"Tampa, FL",5178.0
+2004,"Tucson, AZ",4873.0
+2004,"Tulsa, OK",4688.0
+2004,"Virginia Beach, VA",1006.0
+2004,"Washington, DC",7336.0
+2004,"Wichita, KS",2887.0
+2005,"Albuquerque, NM",4670.0
+2005,"Arlington, TX",2369.0
+2005,"Atlanta, GA",7213.0
+2005,"Aurora, CO",1835.0
+2005,"Austin, TX",3393.0
+2005,"Baltimore County, MD",5609.0
+2005,"Baltimore, MD",11248.0
+2005,"Boston, MA",7479.0
+2005,"Buffalo, NY",3938.0
+2005,"Charlotte, NC",7933.0
+2005,"Chicago, IL",36050.0
+2005,"Cincinnati, OH",3738.0
+2005,"Cleveland, OH",6430.0
+2005,"Columbus, OH",6203.0
+2005,"Dallas, TX",15429.0
+2005,"Denver, CO",4446.0
+2005,"Detroit, MI",21274.0
+2005,"El Paso, TX",2621.0
+2005,"Fairfax County, VA",575.0
+2005,"Fort Worth, TX",3920.0
+2005,"Fresno, CA",3897.0
+2005,"Honolulu, HI",2570.0
+2005,"Houston, TX",23987.0
+2005,"Indianapolis, IN",7948.0
+2005,"Jacksonville, FL",6600.0
+2005,"Kansas City, MO",6536.0
+2005,"Las Vegas, NV",9530.0
+2005,"Long Beach, CA",3399.0
+2005,"Los Angeles County, CA",7459.0
+2005,"Los Angeles, CA",31767.0
+2005,"Louisville, KY",3896.0
+2005,"Memphis, TN",12637.0
+2005,"Mesa, AZ",2280.0
+2005,"Miami, FL",6134.0
+2005,"Miami-Dade County, FL",9263.0
+2005,"Milwaukee, WI",6027.0
+2005,"Minneapolis, MN",5472.0
+2005,"Montgomery County, MD",2079.0
+2005,"Nashville, TN",8982.0
+2005,"Nassau County, NY",1793.0
+2005,"New Orleans, LA",2090.0
+2005,"New York City, NY",54623.0
+2005,"Newark, NJ",2821.0
+2005,"Oakland, CA",5692.0
+2005,"Oklahoma City, OK",4538.0
+2005,"Omaha, NE",2327.0
+2005,"Orlando, FL",3801.0
+2005,"Philadelphia, PA",21609.0
+2005,"Phoenix, AZ",10691.0
+2005,"Pittsburgh, PA",3385.0
+2005,"Portland, OR",3858.0
+2005,"Prince George's County, MD",8232.0
+2005,"Raleigh, NC",2050.0
+2005,"Sacramento, CA",5265.0
+2005,"Salt Lake City, UT",1301.0
+2005,"San Antonio, TX",8007.0
+2005,"San Diego, CA",6603.0
+2005,"San Francisco, CA",5985.0
+2005,"San Jose, CA",3492.0
+2005,"Seattle, WA",4109.0
+2005,"St. Louis, MO",8323.0
+2005,"Suffolk County, NY",2446.0
+2005,"Tampa, FL",4707.0
+2005,"Tucson, AZ",5048.0
+2005,"Tulsa, OK",4995.0
+2005,"Virginia Beach, VA",1139.0
+2005,"Washington, DC",7716.0
+2005,"Wichita, KS",2644.0
+2006,"Albuquerque, NM",4550.0
+2006,"Arlington, TX",2728.0
+2006,"Atlanta, GA",7548.0
+2006,"Aurora, CO",1857.0
+2006,"Austin, TX",3658.0
+2006,"Baltimore County, MD",5664.0
+2006,"Baltimore, MD",10816.0
+2006,"Boston, MA",7533.0
+2006,"Buffalo, NY",3957.0
+2006,"Charlotte, NC",7532.0
+2006,"Chicago, IL",35363.0
+2006,"Cincinnati, OH",3777.0
+2006,"Cleveland, OH",7030.0
+2006,"Columbus, OH",5952.0
+2006,"Dallas, TX",15058.0
+2006,"Denver, CO",4324.0
+2006,"Detroit, MI",21391.0
+2006,"El Paso, TX",2422.0
+2006,"Fairfax County, VA",764.0
+2006,"Fort Worth, TX",4219.0
+2006,"Fresno, CA",3524.0
+2006,"Honolulu, HI",2745.0
+2006,"Houston, TX",24250.0
+2006,"Indianapolis, IN",7689.0
+2006,"Jacksonville, FL",6663.0
+2006,"Kansas City, MO",6471.0
+2006,"Las Vegas, NV",12931.0
+2006,"Long Beach, CA",3420.0
+2006,"Los Angeles County, CA",7290.0
+2006,"Los Angeles, CA",30526.0
+2006,"Louisville, KY",3836.0
+2006,"Memphis, TN",13557.0
+2006,"Mesa, AZ",2084.0
+2006,"Miami, FL",5931.0
+2006,"Miami-Dade County, FL",9047.0
+2006,"Milwaukee, WI",7802.0
+2006,"Minneapolis, MN",6374.0
+2006,"Montgomery County, MD",2155.0
+2006,"Nashville, TN",8565.0
+2006,"Nassau County, NY",1813.0
+2006,"New Orleans, LA",2255.0
+2006,"New York City, NY",52086.0
+2006,"Newark, NJ",2839.0
+2006,"Oakland, CA",7599.0
+2006,"Oklahoma City, OK",4301.0
+2006,"Omaha, NE",2505.0
+2006,"Orlando, FL",4300.0
+2006,"Philadelphia, PA",22884.0
+2006,"Phoenix, AZ",11195.0
+2006,"Pittsburgh, PA",3473.0
+2006,"Portland, OR",3872.0
+2006,"Prince George's County, MD",6892.0
+2006,"Raleigh, NC",2223.0
+2006,"Sacramento, CA",5556.0
+2006,"Salt Lake City, UT",1504.0
+2006,"San Antonio, TX",7977.0
+2006,"San Diego, CA",6391.0
+2006,"San Francisco, CA",6533.0
+2006,"San Jose, CA",3561.0
+2006,"Seattle, WA",4152.0
+2006,"St. Louis, MO",8605.0
+2006,"Suffolk County, NY",2481.0
+2006,"Tampa, FL",3839.0
+2006,"Tucson, AZ",4580.0
+2006,"Tulsa, OK",4816.0
+2006,"Virginia Beach, VA",1255.0
+2006,"Washington, DC",8408.0
+2006,"Wichita, KS",3325.0
+2007,"Albuquerque, NM",5080.0
+2007,"Arlington, TX",2588.0
+2007,"Atlanta, GA",8075.0
+2007,"Aurora, CO",1685.0
+2007,"Austin, TX",3871.0
+2007,"Baltimore County, MD",5331.0
+2007,"Baltimore, MD",10182.0
+2007,"Boston, MA",6837.0
+2007,"Buffalo, NY",3490.0
+2007,"Charlotte, NC",7233.0
+2007,"Chicago, IL",34936.0
+2007,"Cincinnati, OH",3595.0
+2007,"Cleveland, OH",6460.0
+2007,"Columbus, OH",6302.0
+2007,"Dallas, TX",13248.0
+2007,"Denver, CO",3528.0
+2007,"Detroit, MI",19690.0
+2007,"El Paso, TX",2574.0
+2007,"Fairfax County, VA",873.0
+2007,"Fort Worth, TX",4477.0
+2007,"Fresno, CA",3043.0
+2007,"Honolulu, HI",2613.0
+2007,"Houston, TX",24564.0
+2007,"Indianapolis, IN",9841.0
+2007,"Jacksonville, FL",8146.0
+2007,"Kansas City, MO",8380.0
+2007,"Las Vegas, NV",13641.0
+2007,"Long Beach, CA",3426.0
+2007,"Los Angeles County, CA",7784.0
+2007,"Los Angeles, CA",27806.0
+2007,"Louisville, KY",4238.0
+2007,"Memphis, TN",13065.0
+2007,"Mesa, AZ",2224.0
+2007,"Miami, FL",6119.0
+2007,"Miami-Dade County, FL",8614.0
+2007,"Milwaukee, WI",8057.0
+2007,"Minneapolis, MN",5580.0
+2007,"Montgomery County, MD",2059.0
+2007,"Nashville, TN",8513.0
+2007,"Nassau County, NY",1639.0
+2007,"New Orleans, LA",3451.0
+2007,"New York City, NY",50453.0
+2007,"Newark, NJ",2415.0
+2007,"Oakland, CA",7605.0
+2007,"Oklahoma City, OK",4612.0
+2007,"Omaha, NE",2578.0
+2007,"Orlando, FL",4269.0
+2007,"Philadelphia, PA",21180.0
+2007,"Phoenix, AZ",11158.0
+2007,"Pittsburgh, PA",3455.0
+2007,"Portland, OR",3701.0
+2007,"Prince George's County, MD",6134.0
+2007,"Raleigh, NC",2098.0
+2007,"Sacramento, CA",5128.0
+2007,"Salt Lake City, UT",1504.0
+2007,"San Antonio, TX",7327.0
+2007,"San Diego, CA",6332.0
+2007,"San Francisco, CA",6414.0
+2007,"San Jose, CA",3759.0
+2007,"Seattle, WA",3667.0
+2007,"St. Louis, MO",7654.0
+2007,"Suffolk County, NY",2205.0
+2007,"Tampa, FL",3575.0
+2007,"Tucson, AZ",4103.0
+2007,"Tulsa, OK",4552.0
+2007,"Virginia Beach, VA",1084.0
+2007,"Washington, DC",7924.0
+2007,"Wichita, KS",3391.0
+2008,"Albuquerque, NM",4718.0
+2008,"Arlington, TX",2262.0
+2008,"Atlanta, GA",7403.0
+2008,"Aurora, CO",1621.0
+2008,"Austin, TX",3935.0
+2008,"Baltimore County, MD",4901.0
+2008,"Baltimore, MD",10080.0
+2008,"Boston, MA",6676.0
+2008,"Buffalo, NY",3716.0
+2008,"Charlotte, NC",7070.0
+2008,"Chicago, IL",35789.0
+2008,"Cincinnati, OH",4214.0
+2008,"Cleveland, OH",6154.0
+2008,"Columbus, OH",5854.0
+2008,"Dallas, TX",11420.0
+2008,"Denver, CO",3359.0
+2008,"Detroit, MI",17982.0
+2008,"El Paso, TX",2825.0
+2008,"Fairfax County, VA",732.0
+2008,"Fort Worth, TX",4627.0
+2008,"Fresno, CA",2782.0
+2008,"Honolulu, HI",2575.0
+2008,"Houston, TX",24779.0
+2008,"Indianapolis, IN",9735.0
+2008,"Jacksonville, FL",8032.0
+2008,"Kansas City, MO",6269.0
+2008,"Las Vegas, NV",13324.0
+2008,"Long Beach, CA",3158.0
+2008,"Los Angeles County, CA",7362.0
+2008,"Los Angeles, CA",26553.0
+2008,"Louisville, KY",4306.0
+2008,"Memphis, TN",12939.0
+2008,"Mesa, AZ",2289.0
+2008,"Miami, FL",5709.0
+2008,"Miami-Dade County, FL",8749.0
+2008,"Milwaukee, WI",7404.0
+2008,"Minneapolis, MN",4779.0
+2008,"Montgomery County, MD",2087.0
+2008,"Nashville, TN",8365.0
+2008,"Nassau County, NY",1602.0
+2008,"New Orleans, LA",2869.0
+2008,"New York City, NY",48430.0
+2008,"Newark, NJ",2660.0
+2008,"Oakland, CA",7905.0
+2008,"Oklahoma City, OK",5400.0
+2008,"Omaha, NE",2648.0
+2008,"Orlando, FL",3829.0
+2008,"Philadelphia, PA",20771.0
+2008,"Phoenix, AZ",10465.0
+2008,"Pittsburgh, PA",3358.0
+2008,"Portland, OR",3445.0
+2008,"Prince George's County, MD",5966.0
+2008,"Raleigh, NC",2245.0
+2008,"Sacramento, CA",4660.0
+2008,"Salt Lake City, UT",1424.0
+2008,"San Antonio, TX",9699.0
+2008,"San Diego, CA",6047.0
+2008,"San Francisco, CA",6744.0
+2008,"San Jose, CA",3643.0
+2008,"Seattle, WA",3447.0
+2008,"St. Louis, MO",7383.0
+2008,"Suffolk County, NY",2166.0
+2008,"Tampa, FL",2975.0
+2008,"Tucson, AZ",4252.0
+2008,"Tulsa, OK",4922.0
+2008,"Virginia Beach, VA",1040.0
+2008,"Washington, DC",8135.0
+2008,"Wichita, KS",3097.0
+2009,"Albuquerque, NM",4082.0
+2009,"Arlington, TX",2330.0
+2009,"Atlanta, GA",6359.0
+2009,"Aurora, CO",1520.0
+2009,"Austin, TX",4024.0
+2009,"Baltimore County, MD",4534.0
+2009,"Baltimore, MD",9664.0
+2009,"Boston, MA",6192.0
+2009,"Buffalo, NY",3920.0
+2009,"Charlotte, NC",5625.0
+2009,"Chicago, IL",33501.0
+2009,"Cincinnati, OH",3983.0
+2009,"Cleveland, OH",5994.0
+2009,"Columbus, OH",5375.0
+2009,"Dallas, TX",10221.0
+2009,"Denver, CO",3473.0
+2009,"Detroit, MI",18094.0
+2009,"El Paso, TX",2830.0
+2009,"Fairfax County, VA",705.0
+2009,"Fort Worth, TX",4245.0
+2009,"Fresno, CA",2933.0
+2009,"Honolulu, HI",2537.0
+2009,"Houston, TX",25593.0
+2009,"Indianapolis, IN",9759.0
+2009,"Jacksonville, FL",6772.0
+2009,"Kansas City, MO",6303.0
+2009,"Las Vegas, NV",13039.0
+2009,"Long Beach, CA",3161.0
+2009,"Los Angeles County, CA",6540.0
+2009,"Los Angeles, CA",24070.0
+2009,"Louisville, KY",3769.0
+2009,"Memphis, TN",12072.0
+2009,"Mesa, AZ",2000.0
+2009,"Miami, FL",4983.0
+2009,"Miami-Dade County, FL",7815.0
+2009,"Milwaukee, WI",6661.0
+2009,"Minneapolis, MN",4242.0
+2009,"Montgomery County, MD",2033.0
+2009,"Nashville, TN",6959.0
+2009,"Nassau County, NY",1640.0
+2009,"New Orleans, LA",2614.0
+2009,"New York City, NY",46357.0
+2009,"Newark, NJ",2597.0
+2009,"Oakland, CA",6793.0
+2009,"Oklahoma City, OK",5181.0
+2009,"Omaha, NE",2363.0
+2009,"Orlando, FL",2814.0
+2009,"Philadelphia, PA",19163.0
+2009,"Phoenix, AZ",8730.0
+2009,"Pittsburgh, PA",3087.0
+2009,"Portland, OR",3105.0
+2009,"Prince George's County, MD",5338.0
+2009,"Raleigh, NC",2001.0
+2009,"Sacramento, CA",4165.0
+2009,"Salt Lake City, UT",1284.0
+2009,"San Antonio, TX",7844.0
+2009,"San Diego, CA",5931.0
+2009,"San Francisco, CA",5957.0
+2009,"San Jose, CA",3439.0
+2009,"Seattle, WA",3861.0
+2009,"St. Louis, MO",7353.0
+2009,"Suffolk County, NY",2267.0
+2009,"Tampa, FL",2597.0
+2009,"Tucson, AZ",3560.0
+2009,"Tulsa, OK",4295.0
+2009,"Virginia Beach, VA",896.0
+2009,"Washington, DC",7587.0
+2009,"Wichita, KS",3255.0
+2010,"Albuquerque, NM",4291.0
+2010,"Arlington, TX",1925.0
+2010,"Atlanta, GA",5749.0
+2010,"Aurora, CO",1449.0
+2010,"Austin, TX",3790.0
+2010,"Baltimore County, MD",4305.0
+2010,"Baltimore, MD",9316.0
+2010,"Boston, MA",5819.0
+2010,"Buffalo, NY",3599.0
+2010,"Charlotte, NC",4891.0
+2010,"Chicago, IL",29774.0
+2010,"Cincinnati, OH",3615.0
+2010,"Cleveland, OH",5529.0
+2010,"Columbus, OH",5472.0
+2010,"Dallas, TX",9161.0
+2010,"Denver, CO",3387.0
+2010,"Detroit, MI",16973.0
+2010,"El Paso, TX",2861.0
+2010,"Fairfax County, VA",971.0
+2010,"Fort Worth, TX",4301.0
+2010,"Fresno, CA",3034.0
+2010,"Honolulu, HI",2548.0
+2010,"Houston, TX",22491.0
+2010,"Indianapolis, IN",9646.0
+2010,"Jacksonville, FL",5469.0
+2010,"Kansas City, MO",5643.0
+2010,"Las Vegas, NV",12648.0
+2010,"Long Beach, CA",2720.0
+2010,"Los Angeles County, CA",6497.0
+2010,"Los Angeles, CA",21484.0
+2010,"Louisville, KY",3734.0
+2010,"Memphis, TN",10401.0
+2010,"Mesa, AZ",1790.0
+2010,"Miami, FL",4879.0
+2010,"Miami-Dade County, FL",6927.0
+2010,"Milwaukee, WI",6336.0
+2010,"Minneapolis, MN",4064.0
+2010,"Montgomery County, MD",1699.0
+2010,"Nashville, TN",6802.0
+2010,"Nassau County, NY",1496.0
+2010,"New Orleans, LA",2593.0
+2010,"New York City, NY",48489.0
+2010,"Newark, NJ",2885.0
+2010,"Oakland, CA",6267.0
+2010,"Oklahoma City, OK",5304.0
+2010,"Omaha, NE",2274.0
+2010,"Orlando, FL",2574.0
+2010,"Philadelphia, PA",18535.0
+2010,"Phoenix, AZ",8001.0
+2010,"Pittsburgh, PA",2810.0
+2010,"Portland, OR",3051.0
+2010,"Prince George's County, MD",4941.0
+2010,"Raleigh, NC",1740.0
+2010,"Sacramento, CA",4112.0
+2010,"Salt Lake City, UT",1294.0
+2010,"San Antonio, TX",8434.0
+2010,"San Diego, CA",5616.0
+2010,"San Francisco, CA",5747.0
+2010,"San Jose, CA",3215.0
+2010,"Seattle, WA",3515.0
+2010,"St. Louis, MO",6205.0
+2010,"Suffolk County, NY",2031.0
+2010,"Tampa, FL",2170.0
+2010,"Tucson, AZ",3331.0
+2010,"Tulsa, OK",4304.0
+2010,"Virginia Beach, VA",831.0
+2010,"Washington, DC",7468.0
+2010,"Wichita, KS",3038.0
+2011,"Albuquerque, NM",4210.0
+2011,"Arlington, TX",1874.0
+2011,"Atlanta, GA",6097.0
+2011,"Aurora, CO",1460.0
+2011,"Austin, TX",3470.0
+2011,"Baltimore County, MD",4250.0
+2011,"Baltimore, MD",8886.0
+2011,"Boston, MA",5252.0
+2011,"Buffalo, NY",3250.0
+2011,"Charlotte, NC",4787.0
+2011,"Chicago, IL",28273.0
+2011,"Cincinnati, OH",3076.0
+2011,"Cleveland, OH",5431.0
+2011,"Columbus, OH",5228.0
+2011,"Dallas, TX",8330.0
+2011,"Denver, CO",3718.0
+2011,"Detroit, MI",15254.0
+2011,"El Paso, TX",2858.0
+2011,"Fairfax County, VA",918.0
+2011,"Fort Worth, TX",4579.0
+2011,"Fresno, CA",2915.0
+2011,"Honolulu, HI",2370.0
+2011,"Houston, TX",20892.0
+2011,"Indianapolis, IN",9170.0
+2011,"Jacksonville, FL",5182.0
+2011,"Kansas City, MO",5555.0
+2011,"Las Vegas, NV",10813.0
+2011,"Long Beach, CA",2857.0
+2011,"Los Angeles County, CA",5595.0
+2011,"Los Angeles, CA",20045.0
+2011,"Louisville, KY",4086.0
+2011,"Memphis, TN",10338.0
+2011,"Mesa, AZ",1837.0
+2011,"Miami, FL",4849.0
+2011,"Miami-Dade County, FL",6913.0
+2011,"Milwaukee, WI",6637.0
+2011,"Minneapolis, MN",3722.0
+2011,"Montgomery County, MD",1618.0
+2011,"Nashville, TN",7253.0
+2011,"Nassau County, NY",1459.0
+2011,"New Orleans, LA",2748.0
+2011,"New York City, NY",51209.0
+2011,"Newark, NJ",3243.0
+2011,"Oakland, CA",6652.0
+2011,"Oklahoma City, OK",5108.0
+2011,"Omaha, NE",2309.0
+2011,"Orlando, FL",2591.0
+2011,"Philadelphia, PA",18268.0
+2011,"Phoenix, AZ",8089.0
+2011,"Pittsburgh, PA",2476.0
+2011,"Portland, OR",3037.0
+2011,"Prince George's County, MD",4075.0
+2011,"Raleigh, NC",1724.0
+2011,"Sacramento, CA",3354.0
+2011,"Salt Lake City, UT",1230.0
+2011,"San Antonio, TX",7038.0
+2011,"San Diego, CA",5104.0
+2011,"San Francisco, CA",5374.0
+2011,"San Jose, CA",3206.0
+2011,"Seattle, WA",3664.0
+2011,"St. Louis, MO",5950.0
+2011,"Suffolk County, NY",1862.0
+2011,"Tampa, FL",2228.0
+2011,"Tucson, AZ",3440.0
+2011,"Tulsa, OK",3960.0
+2011,"Virginia Beach, VA",784.0
+2011,"Washington, DC",6985.0
+2011,"Wichita, KS",2963.0
+2012,"Albuquerque, NM",4151.0
+2012,"Arlington, TX",1909.0
+2012,"Atlanta, GA",6027.0
+2012,"Aurora, CO",1400.0
+2012,"Austin, TX",3405.0
+2012,"Baltimore County, MD",4145.0
+2012,"Baltimore, MD",8789.0
+2012,"Boston, MA",5266.0
+2012,"Buffalo, NY",3382.0
+2012,"Charlotte, NC",5238.0
+2012,"Chicago, IL",27620.0
+2012,"Cincinnati, OH",2903.0
+2012,"Cleveland, OH",5469.0
+2012,"Columbus, OH",4808.0
+2012,"Dallas, TX",8380.0
+2012,"Denver, CO",3885.0
+2012,"Detroit, MI",15023.0
+2012,"El Paso, TX",2859.0
+2012,"Fairfax County, VA",858.0
+2012,"Fort Worth, TX",4526.0
+2012,"Fresno, CA",2748.0
+2012,"Honolulu, HI",2336.0
+2012,"Houston, TX",21610.0
+2012,"Indianapolis, IN",9942.0
+2012,"Jacksonville, FL",5189.0
+2012,"Kansas City, MO",5889.0
+2012,"Las Vegas, NV",11598.0
+2012,"Long Beach, CA",2705.0
+2012,"Los Angeles County, CA",5458.0
+2012,"Los Angeles, CA",18547.0
+2012,"Louisville, KY",3989.0
+2012,"Memphis, TN",11417.0
+2012,"Mesa, AZ",1804.0
+2012,"Miami, FL",4856.0
+2012,"Miami-Dade County, FL",6046.0
+2012,"Milwaukee, WI",7932.0
+2012,"Minneapolis, MN",3872.0
+2012,"Montgomery County, MD",1795.0
+2012,"Nashville, TN",7314.0
+2012,"Nassau County, NY",1654.0
+2012,"New Orleans, LA",2958.0
+2012,"New York City, NY",52993.0
+2012,"Newark, NJ",3220.0
+2012,"Oakland, CA",7963.0
+2012,"Oklahoma City, OK",5474.0
+2012,"Omaha, NE",2485.0
+2012,"Orlando, FL",2508.0
+2012,"Philadelphia, PA",17853.0
+2012,"Phoenix, AZ",9458.0
+2012,"Pittsburgh, PA",2347.0
+2012,"Portland, OR",3093.0
+2012,"Prince George's County, MD",3955.0
+2012,"Raleigh, NC",1780.0
+2012,"Sacramento, CA",3520.0
+2012,"Salt Lake City, UT",1302.0
+2012,"San Antonio, TX",6943.0
+2012,"San Diego, CA",5529.0
+2012,"San Francisco, CA",5777.0
+2012,"San Jose, CA",3547.0
+2012,"Seattle, WA",3782.0
+2012,"St. Louis, MO",5661.0
+2012,"Suffolk County, NY",1790.0
+2012,"Tampa, FL",2162.0
+2012,"Tucson, AZ",3850.0
+2012,"Tulsa, OK",3949.0
+2012,"Virginia Beach, VA",751.0
+2012,"Washington, DC",7448.0
+2012,"Wichita, KS",2896.0
+2013,"Albuquerque, NM",4325.0
+2013,"Arlington, TX",1837.0
+2013,"Atlanta, GA",5516.0
+2013,"Aurora, CO",1429.0
+2013,"Austin, TX",3123.0
+2013,"Baltimore County, MD",4184.0
+2013,"Baltimore, MD",8725.0
+2013,"Boston, MA",5037.0
+2013,"Buffalo, NY",3249.0
+2013,"Charlotte, NC",5093.0
+2013,"Chicago, IL",25688.0
+2013,"Cincinnati, OH",2858.0
+2013,"Cleveland, OH",5782.0
+2013,"Columbus, OH",4446.0
+2013,"Dallas, TX",8330.0
+2013,"Denver, CO",4093.0
+2013,"Detroit, MI",14501.0
+2013,"El Paso, TX",2522.0
+2013,"Fairfax County, VA",1005.0
+2013,"Fort Worth, TX",4440.0
+2013,"Fresno, CA",2552.0
+2013,"Honolulu, HI",2276.0
+2013,"Houston, TX",20993.0
+2013,"Indianapolis, IN",10479.0
+2013,"Jacksonville, FL",5246.0
+2013,"Kansas City, MO",5876.0
+2013,"Las Vegas, NV",11374.0
+2013,"Long Beach, CA",2346.0
+2013,"Los Angeles County, CA",5323.0
+2013,"Los Angeles, CA",16524.0
+2013,"Louisville, KY",3644.0
+2013,"Memphis, TN",10890.0
+2013,"Mesa, AZ",1807.0
+2013,"Miami, FL",4945.0
+2013,"Miami-Dade County, FL",6057.0
+2013,"Milwaukee, WI",8194.0
+2013,"Minneapolis, MN",4038.0
+2013,"Montgomery County, MD",1687.0
+2013,"Nashville, TN",6667.0
+2013,"Nassau County, NY",1394.0
+2013,"New Orleans, LA",2965.0
+2013,"New York City, NY",52384.0
+2013,"Newark, NJ",3516.0
+2013,"Oakland, CA",7984.0
+2013,"Oklahoma City, OK",4998.0
+2013,"Omaha, NE",2449.0
+2013,"Orlando, FL",2316.0
+2013,"Philadelphia, PA",17074.0
+2013,"Phoenix, AZ",9492.0
+2013,"Pittsburgh, PA",2259.0
+2013,"Portland, OR",2941.0
+2013,"Prince George's County, MD",3502.0
+2013,"Raleigh, NC",1683.0
+2013,"Sacramento, CA",3137.0
+2013,"Salt Lake City, UT",1487.0
+2013,"San Antonio, TX",8828.0
+2013,"San Diego, CA",5303.0
+2013,"San Francisco, CA",7064.0
+2013,"San Jose, CA",3215.0
+2013,"Seattle, WA",3760.0
+2013,"St. Louis, MO",5077.0
+2013,"Suffolk County, NY",1599.0
+2013,"Tampa, FL",2097.0
+2013,"Tucson, AZ",3368.0
+2013,"Tulsa, OK",3827.0
+2013,"Virginia Beach, VA",738.0
+2013,"Washington, DC",7880.0
+2013,"Wichita, KS",3069.0
+2014,"Albuquerque, NM",4934.0
+2014,"Arlington, TX",1854.0
+2014,"Atlanta, GA",5577.0
+2014,"Aurora, CO",1430.0
+2014,"Austin, TX",3581.0
+2014,"Baltimore County, MD",4024.0
+2014,"Baltimore, MD",8346.0
+2014,"Boston, MA",4749.0
+2014,"Buffalo, NY",3173.0
+2014,"Charlotte, NC",5054.0
+2014,"Chicago, IL",24133.0
+2014,"Cincinnati, OH",2719.0
+2014,"Cleveland, OH",5205.0
+2014,"Columbus, OH",4640.0
+2014,"Dallas, TX",8457.0
+2014,"Denver, CO",4002.0
+2014,"Detroit, MI",13622.0
+2014,"El Paso, TX",2671.0
+2014,"Fairfax County, VA",969.0
+2014,"Fort Worth, TX",4492.0
+2014,"Fresno, CA",2382.0
+2014,"Honolulu, HI",2273.0
+2014,"Houston, TX",22008.0
+2014,"Indianapolis, IN",10768.0
+2014,"Jacksonville, FL",5853.0
+2014,"Kansas City, MO",5892.0
+2014,"Las Vegas, NV",12876.0
+2014,"Long Beach, CA",2304.0
+2014,"Los Angeles County, CA",5091.0
+2014,"Los Angeles, CA",19171.0
+2014,"Louisville, KY",4015.0
+2014,"Memphis, TN",11420.0
+2014,"Mesa, AZ",2119.0
+2014,"Miami, FL",4473.0
+2014,"Miami-Dade County, FL",6571.0
+2014,"Milwaukee, WI",8914.0
+2014,"Minneapolis, MN",4093.0
+2014,"Montgomery County, MD",1648.0
+2014,"Nashville, TN",7289.0
+2014,"Nassau County, NY",1329.0
+2014,"New Orleans, LA",3770.0
+2014,"New York City, NY",50564.0
+2014,"Newark, NJ",3009.0
+2014,"Oakland, CA",6910.0
+2014,"Oklahoma City, OK",4782.0
+2014,"Omaha, NE",2458.0
+2014,"Orlando, FL",2340.0
+2014,"Philadelphia, PA",15925.0
+2014,"Phoenix, AZ",8749.0
+2014,"Pittsburgh, PA",2455.0
+2014,"Portland, OR",2911.0
+2014,"Prince George's County, MD",3161.0
+2014,"Raleigh, NC",1730.0
+2014,"Sacramento, CA",2968.0
+2014,"Salt Lake City, UT",1452.0
+2014,"San Antonio, TX",7704.0
+2014,"San Diego, CA",5214.0
+2014,"San Francisco, CA",6761.0
+2014,"San Jose, CA",3242.0
+2014,"Seattle, WA",4005.0
+2014,"St. Louis, MO",5348.0
+2014,"Suffolk County, NY",1576.0
+2014,"Tampa, FL",2080.0
+2014,"Tucson, AZ",3443.0
+2014,"Tulsa, OK",3217.0
+2014,"Virginia Beach, VA",667.0
+2014,"Washington, DC",7810.0
+2014,"Wichita, KS",2939.0
+2015,"Albuquerque, NM",5406.0
+2015,"Arlington, TX",1946.0
+2015,"Atlanta, GA",5203.0
+2015,"Aurora, CO",1660.0
+2015,"Austin, TX",3497.0
+2015,"Baltimore County, MD",0.0
+2015,"Baltimore, MD",9542.0
+2015,"Boston, MA",4702.0
+2015,"Buffalo, NY",2887.0
+2015,"Charlotte, NC",5948.0
+2015,"Chicago, IL",24663.0
+2015,"Cincinnati, OH",2761.0
+2015,"Cleveland, OH",0.0
+2015,"Columbus, OH",4631.0
+2015,"Dallas, TX",9038.0
+2015,"Denver, CO",4599.0
+2015,"Detroit, MI",11846.0
+2015,"El Paso, TX",2515.0
+2015,"Fairfax County, VA",974.0
+2015,"Fort Worth, TX",4359.0
+2015,"Fresno, CA",2871.0
+2015,"Honolulu, HI",2437.0
+2015,"Houston, TX",21994.0
+2015,"Indianapolis, IN",11124.0
+2015,"Jacksonville, FL",5622.0
+2015,"Kansas City, MO",6709.0
+2015,"Las Vegas, NV",14383.0
+2015,"Long Beach, CA",2766.0
+2015,"Los Angeles County, CA",5173.0
+2015,"Los Angeles, CA",25156.0
+2015,"Louisville, KY",4300.0
+2015,"Memphis, TN",11449.0
+2015,"Mesa, AZ",1972.0
+2015,"Miami, FL",4473.0
+2015,"Miami-Dade County, FL",6179.0
+2015,"Milwaukee, WI",9583.0
+2015,"Minneapolis, MN",4395.0
+2015,"Montgomery County, MD",1964.0
+2015,"Nashville, TN",7245.0
+2015,"Nassau County, NY",1318.0
+2015,"New Orleans, LA",3736.0
+2015,"New York City, NY",50088.0
+2015,"Newark, NJ",3072.0
+2015,"Oakland, CA",6051.0
+2015,"Oklahoma City, OK",4828.0
+2015,"Omaha, NE",2329.0
+2015,"Orlando, FL",2525.0
+2015,"Philadelphia, PA",16132.0
+2015,"Phoenix, AZ",9261.0
+2015,"Pittsburgh, PA",2167.0
+2015,"Portland, OR",0.0
+2015,"Prince George's County, MD",3256.0
+2015,"Raleigh, NC",1676.0
+2015,"Sacramento, CA",3611.0
+2015,"Salt Lake City, UT",1642.0
+2015,"San Antonio, TX",8594.0
+2015,"San Diego, CA",5582.0
+2015,"San Francisco, CA",6710.0
+2015,"San Jose, CA",3400.0
+2015,"Seattle, WA",4093.0
+2015,"St. Louis, MO",5762.0
+2015,"Suffolk County, NY",1675.0
+2015,"Tampa, FL",2298.0
+2015,"Tucson, AZ",3472.0
+2015,"Tulsa, OK",3628.0
+2015,"Virginia Beach, VA",626.0
+2015,"Washington, DC",8084.0
+2015,"Wichita, KS",3839.0
